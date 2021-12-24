@@ -1,0 +1,295 @@
+{
+    "5-Aminosalicylic Acid Derivatives": [
+        "aminosalicylic acid (Rx)",
+        "mesalamine (Rx)",
+        "sulfasalazine (Rx)",
+        "balsalazide (Rx)",
+        "mesalamine rectal (Rx)",
+        "olsalazine (Rx)"
+    ],
+    "Ammonium Detoxicants": [
+        "lactulose (Rx)"
+    ],
+    "Antacids": [
+        "aspirin/citric acid/sodium bicarbonate (OTC)",
+        "aluminum hydroxide (OTC)",
+        "calcium carbonate (OTC)",
+        "magnesium oxide (OTC)"
+    ],
+    "Antacids, Combos": [
+        "citric acid/sodium bicarbonate (OTC)",
+        "aluminum hydroxide/magnesium carbonate (OTC)",
+        "aluminum hydroxide/magnesium hydroxide (OTC)",
+        "aluminum hydroxide/magnesium hydroxide/simethicone (OTC)",
+        "aluminum hydroxide/magnesium trisilicate (OTC)",
+        "calcium carbonate/magnesium hydroxide (OTC)",
+        "omeprazole/sodium bicarbonate (Rx, OTC)"
+    ],
+    "Anticholinergic Agents": [
+        "hyoscyamine (Rx)",
+        "dicyclomine (Rx)",
+        "glycopyrrolate (Rx)",
+        "hyoscyamine spray (Rx)",
+        "methscopolamine (Rx)",
+        "propantheline (Rx)"
+    ],
+    "Anticholinergic, Antispasmodic Agents": [
+        "atropine (Rx)",
+        "belladonna alkaloids/phenobarbital (Rx)"
+    ],
+    "Antidiarrheals": [
+        "bismuth subsalicylate (OTC)",
+        "octreotide (Rx)",
+        "crofelemer (Rx)",
+        "loperamide (OTC)",
+        "difenoxin hcl/atropine (Rx)",
+        "diphenoxylate/atropine (Rx)",
+        "loperamide/simethicone (OTC)",
+        "psyllium (OTC)",
+        "opium tincture (Rx)",
+        "paregoric (Rx)",
+        "rifaximin (Rx)"
+    ],
+    "Antidiarrheals, Tryptophan Hydroxylase Inhibitors": [
+        "telotristat ethyl (Rx)"
+    ],
+    "Antiemetic Agents": [
+        "netupitant/palonosetron (Rx)",
+        "diphenhydramine (Rx, OTC)",
+        "amisulpride (Rx)",
+        "meclizine (Rx, OTC)",
+        "aprepitant (Rx)",
+        "doxylamine/pyridoxine (Rx)",
+        "nabilone (Rx)",
+        "phosphoric acid/dextrose/fructose (OTC)",
+        "prochlorperazine (Rx)",
+        "dimenhydrinate (Rx, OTC)",
+        "dronabinol (Rx)",
+        "droperidol (Rx)",
+        "phosphorated carbohydrate (OTC)",
+        "hydroxyzine (Rx)",
+        "scopolamine (Rx)",
+        "metoclopramide (Rx)",
+        "sodium citrate/dextrose/fructose (OTC)",
+        "promethazine (Rx)",
+        "rolapitant (Rx)",
+        "trimethobenzamide (Rx)"
+    ],
+    "Antiemetics, Antihistamine": [
+        "meclizine (Rx, OTC)",
+        "cyclizine (OTC)",
+        "dimenhydrinate (Rx, OTC)"
+    ],
+    "Antiemetics, Selective 5-HT3 Antagonist": [
+        "netupitant/palonosetron (Rx)",
+        "palonosetron (Rx)",
+        "dolasetron (Rx)",
+        "granisetron (Rx)",
+        "ondansetron (Rx)"
+    ],
+    "ASBT Inhibitors": [
+        "maralixibat (Pending FDA Approval)"
+    ],
+    "Bile Acid Replacements": [
+        "cholic acid (Rx)"
+    ],
+    "Bowel Preps": [
+        "sodium picosulfate/magnesium oxide/anhydrous citric acid (Rx)",
+        "polyethylene glycol & electrolytes (Rx, OTC)",
+        "polyethylene glycol/electrolytes/sodium ascorbate/ascorbic acid (Rx)",
+        "sodium sulfate/​magnesium sulfate/potassium chloride (Rx)",
+        "sodium sulfate/potassium sulfate/magnesium sulfate (Rx)",
+        "sodium sulfate/potassium sulfate/magnesium sulfate/polyethylene glycol (Rx)"
+    ],
+    "CNS Stimulants, Anorexiants": [
+        "phentermine (Rx)",
+        "lorcaserin (Discontinued)",
+        "benzphetamine (Rx)",
+        "phendimetrazine (Rx)",
+        "methamphetamine (Rx)",
+        "diethylpropion (Rx)",
+        "phentermine/topiramate (Rx)"
+    ],
+    "Corticosteroids, Gastrointestinal": [
+        "hydrocortisone topical/pramoxine topical (Rx)",
+        "hydrocortisone rectal (Rx)",
+        "budesonide (Rx)"
+    ],
+    "Corticosteroids, Rectal": [
+        "budesonide rectal (Rx)"
+    ],
+    "Diagnostics, Gastrointestinal": [
+        "secretin (Rx)",
+        "glucagon (Rx)",
+        "sincalide (Rx)"
+    ],
+    "Emetic Agents": [
+        "ipecac syrup (Rx, OTC)"
+    ],
+    "Farnesoid X Receptor Agonists": [
+        "obeticholic acid (Rx)"
+    ],
+    "Gallstone Solubilizing Agents": [
+        "ursodiol (Rx)",
+        "chenodiol (Rx)"
+    ],
+    "Gastrointestinal Agents, Other": [
+        "vasopressin (Rx)",
+        "orlistat (Rx, OTC)",
+        "bismuth subgallate (OTC)",
+        "sucralfate (Rx)",
+        "simethicone (OTC)",
+        "chlordiazepoxide/clidinium (Rx)",
+        "chlorophyll (OTC)",
+        "misoprostol (Rx)",
+        "famotidine/calcium carbonate/magnesium hydroxide (OTC)",
+        "pramoxine (OTC)",
+        "nitroglycerin rectal (Rx)",
+        "phenylephrine/cocoa butter rectal (OTC)",
+        "phenylephrine/mineral oil/petrolatum rectal (OTC)",
+        "phenylephrine/pramoxine/glycerin/petrolatum rectal (OTC)",
+        "phenylephrine/witch hazel topical (OTC)",
+        "starch suppository (OTC)"
+    ],
+    "Gastrointestinals, Guanylate Cyclase-C Agonists": [
+        "linaclotide (Rx)",
+        "plecanatide (Rx)"
+    ],
+    "GLP-2 Analogs": [
+        "teduglutide (Rx)"
+    ],
+    "H pylori Agents": [
+        "amoxicillin/omeprazole/rifabutin (Rx)",
+        "bismuth subcitrate potassium/metronidazole/tetracycline hydrochloride (Rx)",
+        "bismuth subsalicylate (OTC)",
+        "metronidazole/tetracycline/bismuth subsalicylate (Rx)",
+        "lansoprazole/amoxicillin/clarithromycin (Rx)",
+        "omeprazole/amoxicillin/clarithromycin (Rx)"
+    ],
+    "HCV NS5A Inhibitors": [
+        "elbasvir/grazoprevir (Rx)",
+        "sofosbuvir/velpatasvir (Rx)",
+        "glecaprevir/pibrentasvir (Rx)",
+        "ledipasvir/sofosbuvir (Rx)",
+        "ombitasvir/paritaprevir/ritonavir & dasabuvir (Rx)",
+        "sofosbuvir/velpatasvir/voxilaprevir (Rx)"
+    ],
+    "HCV Polymerase Inhibitors": [
+        "sofosbuvir/velpatasvir (Rx)",
+        "ledipasvir/sofosbuvir (Rx)",
+        "ombitasvir/paritaprevir/ritonavir & dasabuvir (Rx)",
+        "sofosbuvir (Rx)",
+        "sofosbuvir/velpatasvir/voxilaprevir (Rx)"
+    ],
+    "HCV Protease Inhibitors": [
+        "simeprevir (Discontinued)",
+        "ombitasvir/paritaprevir/ritonavir & dasabuvir (Rx)",
+        "sofosbuvir/velpatasvir/voxilaprevir (Rx)"
+    ],
+    "Histamine H2 Antagonists": [
+        "famotidine (Rx, OTC)",
+        "nizatidine (Rx)",
+        "cimetidine (Rx)",
+        "ranitidine (Discontinued)"
+    ],
+    "IBS Agents": [
+        "alosetron (Rx)",
+        "lubiprostone (Rx)",
+        "eluxadoline (Rx)",
+        "tenapanor (Rx)",
+        "linaclotide (Rx)",
+        "plecanatide (Rx)",
+        "tegaserod (Rx)"
+    ],
+    "Ileal Bile Acid Transport Inhibitors": [
+        "odevixibat (Pending FDA Approval)"
+    ],
+    "Inflammatory Bowel Disease Agents": [
+        "adalimumab (Rx)",
+        "infliximab (Rx)",
+        "vedolizumab (Rx)",
+        "golimumab (Rx)",
+        "natalizumab (Rx)"
+    ],
+    "Laxatives, Bulk-Producing": [
+        "wheat dextrin (OTC)",
+        "methylcellulose (OTC)",
+        "polycarbophil (OTC)",
+        "psyllium (OTC)"
+    ],
+    "Laxatives, Lubricant": [
+        "mineral oil rectal (OTC)",
+        "mineral oil (OTC)",
+        "magnesium hydroxide/mineral oil (OTC)"
+    ],
+    "Laxatives, Osmotic": [
+        "polyethylene glycol & electrolytes (Rx, OTC)",
+        "lactulose (Rx)",
+        "glycerin rectal (OTC)",
+        "glycerin (OTC)",
+        "lactitol (Rx)",
+        "sorbitol (Rx)"
+    ],
+    "Laxatives, Other": [
+        "lubiprostone (Rx)",
+        "castor oil (OTC)",
+        "magnesium hydroxide (OTC)",
+        "malt soup extract (OTC)",
+        "sterculia (OTC)"
+    ],
+    "Laxatives, Saline": [
+        "sodium phosphate rectal (OTC)",
+        "magnesium citrate (OTC)",
+        "sodium acid phosphate (Rx)"
+    ],
+    "Laxatives, Stimulant": [
+        "bisacodyl (OTC)",
+        "bisacodyl rectal (OTC)",
+        "senna (OTC)",
+        "senna/docusate (OTC)",
+        "senna/psyllium (OTC)"
+    ],
+    "Laxatives, Stool Softener": [
+        "docusate (OTC)"
+    ],
+    "Monoclonal Antibodies, Integrin Blockers": [
+        "vedolizumab (Rx)",
+        "natalizumab (Rx)"
+    ],
+    "NK1 Receptor Antagonists": [
+        "netupitant/palonosetron (Rx)",
+        "aprepitant (Rx)",
+        "rolapitant (Rx)"
+    ],
+    "Pancreatic/Digestive Enzymes": [
+        "digestive enzymes (Rx, OTC)",
+        "pancrelipase (Rx)"
+    ],
+    "Prokinetic Agents": [
+        "cisapride (Rx)",
+        "metoclopramide intranasal (Rx)",
+        "metoclopramide (Rx)",
+        "prucalopride (Rx)"
+    ],
+    "Proton Pump Inhibitors": [
+        "rabeprazole (Rx)",
+        "aspirin/omeprazole (Rx)",
+        "dexlansoprazole (Rx)",
+        "esomeprazole (Rx, OTC)",
+        "lansoprazole (Rx, OTC)",
+        "omeprazole (Rx, OTC)",
+        "omeprazole/sodium bicarbonate (Rx, OTC)",
+        "pantoprazole (Rx)"
+    ],
+    "PUD Combos": [
+        "amoxicillin/omeprazole/rifabutin (Rx)",
+        "lansoprazole/amoxicillin/clarithromycin (Rx)",
+        "omeprazole/amoxicillin/clarithromycin (Rx)"
+    ],
+    "Selective 5-HT3 Receptor Antagonists": [
+        "alosetron (Rx)"
+    ],
+    "Serotonin 5-HT2C-Receptor Agonists": [
+        "lorcaserin (Discontinued)"
+    ]
+}

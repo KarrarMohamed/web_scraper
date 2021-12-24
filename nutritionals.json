@@ -1,0 +1,88 @@
+{
+    "B Vitamins": [
+        "cyanocobalamin (Rx, OTC)",
+        "biotin (OTC)",
+        "pyridoxine (Rx, OTC)",
+        "niacin (Rx, OTC)",
+        "pantothenic acid (OTC)",
+        "vitamin B2 (OTC)",
+        "thiamine (Rx, OTC)"
+    ],
+    "Calcium Salts": [
+        "calcium chloride (Rx)",
+        "calcium citrate (OTC)",
+        "calcium carbonate (OTC)",
+        "calcium acetate (Rx)",
+        "calcium gluconate (Rx, OTC)",
+        "calcium/vitamin D (OTC)"
+    ],
+    "Electrolytes": [
+        "potassium bicarbonate/potassium citrate (Rx)",
+        "potassium phosphate/sodium acid phosphate (Rx)",
+        "potassium chloride (Rx)",
+        "magnesium oxide (OTC)",
+        "magnesium gluconate (OTC)",
+        "Magnesium aspartate (OTC)",
+        "magnesium chloride (Rx)",
+        "magnesium sulfate (Rx)",
+        "trimagnesium citrate anhydrous (OTC)"
+    ],
+    "Iron Salts": [
+        "ferric pyrophosphate DIALYSATE (Rx)",
+        "ferric pyrophosphate IV (Rx)"
+    ],
+    "Minerals, Other": [
+        "boron (OTC)",
+        "fluoride (Rx)",
+        "potassium phosphates, IV (Rx)",
+        "silicon (Rx)",
+        "sodium phosphates, IV (Rx)",
+        "vanadium (OTC)"
+    ],
+    "Nutritionals, Other": [
+        "amino acids mixture (Rx)",
+        "caprylidene (Rx)",
+        "lactase enzyme (OTC)",
+        "glutamine (Rx)",
+        "Infant Formula (OTC)",
+        "fish oil triglycerides (Rx)",
+        "flavocoxid/citrated zinc bisglycinate (Rx)",
+        "omega 3 fatty acids (Rx)"
+    ],
+    "Trace Elements/Metals": [
+        "chromium (OTC)",
+        "copper (Rx, OTC)",
+        "zinc (Rx, OTC)",
+        "iodine (OTC)",
+        "manganese (OTC)",
+        "molybdenum (Rx)",
+        "selenious acid (Rx)",
+        "selenium (OTC)",
+        "trace elements (Rx)"
+    ],
+    "Vitamins, Combos": [
+        "iron/folic acid/vitamin/mineral (Rx)",
+        "folic acid/cyanocobalamin/pyridoxine (Rx)",
+        "multivitamins (Rx)",
+        "multivitamins, vision (OTC)"
+    ],
+    "Vitamins, Fat-Soluble": [
+        "vitamin D (Rx, OTC)",
+        "vitamin E (OTC)",
+        "vitamin K1 (phytonadione) (Rx)",
+        "vitamin A (OTC)",
+        "beta carotene (OTC)",
+        "calcium/vitamin D (OTC)"
+    ],
+    "Vitamins, Water-Soluble": [
+        "aminobenzoate potassium (Rx)",
+        "ascorbic acid (Rx, OTC)",
+        "cyanocobalamin (Rx, OTC)",
+        "folic acid (Rx, OTC)",
+        "magnesium supplement (OTC)",
+        "pyridoxine (Rx, OTC)",
+        "niacin (Rx, OTC)",
+        "vitamin B2 (OTC)",
+        "thiamine (Rx, OTC)"
+    ]
+}

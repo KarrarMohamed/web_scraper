@@ -1,0 +1,489 @@
+{
+    "Adjunct Chemoprotective Agents": [
+        "amifostine (Rx)",
+        "palifermin (Rx)"
+    ],
+    "Anti-BCMA Antibodies": [
+        "belantamab mafodotin (Rx)"
+    ],
+    "Anti-Nectin-4 Monoclonal Antibodies": [
+        "brentuximab vedotin (Rx)",
+        "enfortumab vedotin (Rx)"
+    ],
+    "Antineoplastics, Adjuncts": [],
+    "Antineoplastics, Alkylating": [
+        "melphalan (Rx)",
+        "altretamine (Discontinued)",
+        "bendamustine (Rx)",
+        "carmustine (Rx)",
+        "busulfan (Rx)",
+        "carboplatin (Rx)",
+        "lomustine (Rx)",
+        "chlorambucil (Rx)",
+        "cisplatin (Rx)",
+        "cyclophosphamide (Rx)",
+        "dacarbazine (Rx)",
+        "oxaliplatin (Rx)",
+        "ifosfamide (Rx)",
+        "lurbinectedin (Rx)",
+        "procarbazine (Rx)",
+        "mechlorethamine (Rx)",
+        "mechlorethamine topical (Rx)",
+        "melphalan flufenamide (Rx)",
+        "streptozocin (Rx)",
+        "temozolomide (Rx)",
+        "thiotepa (Rx)",
+        "trabectedin (Rx)"
+    ],
+    "Antineoplastics, Anaplastic Lymphoma Kinase Inhibitor": [
+        "brigatinib (Rx)",
+        "ceritinib (Rx)",
+        "crizotinib (Rx)",
+        "lorlatinib (Rx)"
+    ],
+    "Antineoplastics, Angiogenesis Inhibitor": [
+        "lenalidomide (Rx)",
+        "pomalidomide (Rx)",
+        "regorafenib (Rx)",
+        "thalidomide (Rx)"
+    ],
+    "Antineoplastics, Anthracenedione": [
+        "mitoxantrone (Rx)"
+    ],
+    "Antineoplastics, Anthracycline": [
+        "doxorubicin (Rx)",
+        "daunorubicin (Rx)",
+        "cytarabine/daunorubicin liposomal (Rx)",
+        "doxorubicin liposomal (Rx)",
+        "epirubicin (Rx)",
+        "idarubicin (Rx)",
+        "valrubicin (Rx)"
+    ],
+    "Antineoplastics, Anti-CD19 Monoclonal Antibodies": [
+        "loncastuximab tesirine (Rx)",
+        "tafasitamab (Rx)"
+    ],
+    "Antineoplastics, Anti-CD20 Monoclonal Antibodies": [
+        "ofatumumab (Rx)",
+        "obinutuzumab (Rx)",
+        "ibritumomab tiuxetan (Rx)",
+        "rituximab (Rx)",
+        "rituximab-hyaluronidase (Rx)"
+    ],
+    "Antineoplastics, Anti-CD30 Monoclonal Antibodies": [
+        "brentuximab vedotin (Rx)"
+    ],
+    "Antineoplastics, Anti-CD38 Monoclonal Antibodies": [
+        "daratumumab (Rx)",
+        "daratumumab/hyaluronidase (Rx)",
+        "isatuximab (Rx)"
+    ],
+    "Antineoplastics, Anti-GD2 Monoclonal Antibodies": [
+        "naxitamab (Rx)"
+    ],
+    "Antineoplastics, Anti-HER2": [
+        "ado-trastuzumab emtansine (Rx)",
+        "trastuzumab deruxtecan (Rx)",
+        "trastuzumab (Rx)",
+        "trastuzumab/hyaluronidase (Rx)",
+        "lapatinib (Rx)",
+        "margetuximab (Rx)",
+        "neratinib (Rx)",
+        "pertuzumab (Rx)",
+        "pertuzumab/trastuzumab/hyaluronidase (Rx)",
+        "tucatinib (Rx)"
+    ],
+    "Antineoplastics, Antiandrogen": [
+        "abiraterone (Rx)",
+        "apalutamide (Rx)",
+        "bicalutamide (Rx)",
+        "degarelix (Rx)",
+        "enzalutamide (Rx)",
+        "flutamide (Rx)",
+        "nilutamide (Rx)"
+    ],
+    "Antineoplastics, Antibiotic": [
+        "bleomycin (Rx)",
+        "dactinomycin (Rx)",
+        "gemtuzumab (Rx)",
+        "mitomycin pyelocalyceal (Rx)",
+        "mitomycin (Rx)"
+    ],
+    "Antineoplastics, Antimetabolite": [
+        "pentostatin (Rx)",
+        "mercaptopurine (Rx)",
+        "thioguanine (Rx)",
+        "fluorouracil (Rx)",
+        "pemetrexed (Rx)",
+        "nelarabine (Rx)",
+        "capecitabine (Rx)",
+        "cladribine (Rx)",
+        "clofarabine (Rx)",
+        "cytarabine (Rx)",
+        "cytarabine/daunorubicin liposomal (Rx)",
+        "hydroxyurea (Rx)",
+        "floxuridine (Rx)",
+        "fludarabine (Rx)",
+        "pralatrexate (Rx)",
+        "gemcitabine (Rx)",
+        "methotrexate (Rx)"
+    ],
+    "Antineoplastics, Antimicrotubular": [
+        "paclitaxel protein bound (Rx)",
+        "brentuximab vedotin (Rx)",
+        "cabazitaxel (Rx)",
+        "enfortumab vedotin (Rx)",
+        "eribulin (Rx)",
+        "ixabepilone (Rx)"
+    ],
+    "Antineoplastics, Antimicrotubular (Taxanes)": [
+        "docetaxel (Rx)",
+        "paclitaxel/encequidar (Pending FDA Approval)",
+        "paclitaxel (Rx)"
+    ],
+    "Antineoplastics, Aromatase Inhibitor": [
+        "anastrozole (Rx)",
+        "exemestane (Rx)",
+        "letrozole (Rx)",
+        "ribociclib/letrozole (Rx)"
+    ],
+    "Antineoplastics, BRAF Kinase Inhibitor": [
+        "encorafenib (Rx)",
+        "dabrafenib (Rx)",
+        "vemurafenib (Rx)"
+    ],
+    "Antineoplastics, Camptothecin": [
+        "irinotecan (Rx)",
+        "topotecan (Rx)",
+        "irinotecan liposomal (Rx)"
+    ],
+    "Antineoplastics, CDK Inhibitors": [
+        "abemaciclib (Rx)",
+        "trilaciclib (Rx)",
+        "palbociclib (Rx)",
+        "ribociclib (Rx)",
+        "ribociclib/letrozole (Rx)",
+        "umbralisib (Rx)"
+    ],
+    "Antineoplastics, DNA Methylation Inhibitor": [
+        "azacitidine (Rx)",
+        "cedazuridine/decitabine (Rx)",
+        "decitabine (Rx)"
+    ],
+    "Antineoplastics, EGFR Inhibitor": [
+        "afatinib (Rx)",
+        "vandetanib (Rx)",
+        "cetuximab (Rx)",
+        "dacomitinib (Rx)",
+        "erlotinib (Rx)",
+        "gefitinib (Rx)",
+        "lapatinib (Rx)",
+        "necitumumab (Rx)",
+        "neratinib (Rx)",
+        "osimertinib (Rx)",
+        "panitumumab (Rx)"
+    ],
+    "Antineoplastics, Epothilone B Analog": [
+        "ixabepilone (Rx)"
+    ],
+    "Antineoplastics, Estrogen Receptor Antagonist": [
+        "toremifene (Rx)",
+        "fulvestrant (Rx)",
+        "tamoxifen (Rx)"
+    ],
+    "Antineoplastics, GNRH Agonist": [
+        "leuprolide (Rx)",
+        "goserelin (Rx)",
+        "histrelin (Rx)",
+        "triptorelin (Rx)"
+    ],
+    "Antineoplastics, GNRH Antagonist": [
+        "degarelix (Rx)",
+        "relugolix (Rx)"
+    ],
+    "Antineoplastics, HDAc Inhibitors": [
+        "belinostat (Rx)",
+        "panobinostat (Rx)",
+        "romidepsin (Rx)",
+        "vorinostat (Rx)"
+    ],
+    "Antineoplastics, Hedgehog Pathway Inhibitor": [
+        "glasdegib (Rx)",
+        "vismodegib (Rx)",
+        "sonidegib (Rx)"
+    ],
+    "Antineoplastics, Hormones": [
+        "methyltestosterone (Rx)",
+        "medroxyprogesterone (Rx)",
+        "estramustine (Rx)",
+        "estrogens esterified (Rx)",
+        "megestrol (Rx)"
+    ],
+    "Antineoplastics, JAK Inhibitors": [
+        "fedratinib (Rx)",
+        "ruxolitinib (Rx)"
+    ],
+    "Antineoplastics, KRAS Inhibitors": [
+        ""
+    ],
+    "Antineoplastics, MEK Inhibitors": [
+        "binimetinib (Rx)",
+        "cobimetinib (Rx)",
+        "selumetinib (Rx)",
+        "trametinib (Rx)"
+    ],
+    "Antineoplastics, Monoclonal Antibody": [
+        "ado-trastuzumab emtansine (Rx)",
+        "alemtuzumab (Rx)",
+        "bevacizumab (Rx)",
+        "cetuximab (Rx)",
+        "daratumumab (Rx)",
+        "daratumumab/hyaluronidase (Rx)",
+        "denosumab (Rx)",
+        "dinutuximab (Rx)",
+        "elotuzumab (Rx)",
+        "trastuzumab deruxtecan (Rx)",
+        "gemtuzumab (Rx)",
+        "trastuzumab (Rx)",
+        "trastuzumab/hyaluronidase (Rx)",
+        "ipilimumab (Rx)",
+        "pembrolizumab (Rx)",
+        "olaratumab (Discontinued)",
+        "moxetumomab pasudotox (Rx)",
+        "mogamulizumab (Rx)",
+        "nivolumab (Rx)",
+        "oportuzumab monatox (Pending FDA Approval)",
+        "panitumumab (Rx)",
+        "pertuzumab (Rx)",
+        "siltuximab (Rx)"
+    ],
+    "Antineoplastics, mTOr Kinase Inhibitor": [
+        "everolimus (Rx)",
+        "temsirolimus (Rx)"
+    ],
+    "Antineoplastics, Other": [
+        "arsenic trioxide (Rx)",
+        "inotuzumab (Rx)",
+        "eflornithine/sulindac (Pending FDA Approval)",
+        "tagraxofusp (Rx)",
+        "larotrectinib (Rx)",
+        "mitotane (Rx)",
+        "porfimer (Rx)",
+        "polatuzumab vedotin (Rx)",
+        "tumor necrosis factor-alpha (TNF-alpha) adenovector (Rx)"
+    ],
+    "Antineoplastics, Pan-Deacetylase Inhibitors": [
+        "panobinostat (Rx)"
+    ],
+    "Antineoplastics, PARP Inhibitors": [
+        "olaparib (Rx)",
+        "niraparib (Rx)",
+        "rucaparib (Rx)",
+        "talazoparib (Rx)"
+    ],
+    "Antineoplastics, PI3K Inhibitors": [
+        "copanlisib (Rx)",
+        "alpelisib (Rx)",
+        "duvelisib (Rx)",
+        "idelalisib (Rx)",
+        "umbralisib (Rx)"
+    ],
+    "Antineoplastics, Platinum Analog": [
+        "carboplatin (Rx)",
+        "cisplatin (Rx)",
+        "oxaliplatin (Rx)"
+    ],
+    "Antineoplastics, Podophyllotoxin Derivatives": [
+        "etoposide (Rx)",
+        "teniposide (Rx)"
+    ],
+    "Antineoplastics, Proteasome Inhibitors": [
+        "bortezomib (Rx)",
+        "carfilzomib (Rx)",
+        "ixazomib (Rx)"
+    ],
+    "Antineoplastics, Protein Synthesis Inhibitor": [
+        "omacetaxine (Rx)"
+    ],
+    "Antineoplastics, Retinoids": [
+        "alitretinoin topical (Rx)",
+        "bexarotene (Rx)",
+        "tretinoin (Rx)"
+    ],
+    "Antineoplastics, Topical": [
+        "fluorouracil topical (Rx)",
+        "ingenol mebutate topical (Rx)"
+    ],
+    "Antineoplastics, Topoisomerase Inhibitors": [
+        "irinotecan (Rx)",
+        "trastuzumab deruxtecan (Rx)",
+        "topotecan (Rx)",
+        "irinotecan liposomal (Rx)",
+        "sacituzumab govitecan (Rx)"
+    ],
+    "Antineoplastics, Tyrosine Kinase Inhibitor": [
+        "acalabrutinib (Rx)",
+        "afatinib (Rx)",
+        "alectinib (Rx)",
+        "avapritinib (Rx)",
+        "axitinib (Rx)",
+        "bosutinib (Rx)",
+        "zanubrutinib (Rx)",
+        "cabozantinib (Rx)",
+        "vandetanib (Rx)",
+        "crizotinib (Rx)",
+        "dacomitinib (Rx)",
+        "dasatinib (Rx)",
+        "entrectinib (Rx)",
+        "erlotinib (Rx)",
+        "gilteritinib (Rx)",
+        "imatinib (Rx)",
+        "ibrutinib (Rx)",
+        "ponatinib (Rx)",
+        "lapatinib (Rx)",
+        "midostaurin (Rx)",
+        "neratinib (Rx)",
+        "sorafenib (Rx)",
+        "nilotinib (Rx)",
+        "pacritinib (Pending FDA Approval)",
+        "pazopanib (Rx)",
+        "pexidartinib (Rx)",
+        "quizartinib (Pending FDA Approval)",
+        "regorafenib (Rx)",
+        "sunitinib (Rx)",
+        "tucatinib (Rx)",
+        "ziv-aflibercept (Rx)"
+    ],
+    "Antineoplastics, VEGF Inhibitor": [
+        "bevacizumab (Rx)",
+        "axitinib (Rx)",
+        "ramucirumab (Rx)",
+        "tivozanib (Rx)",
+        "lenvatinib (Rx)",
+        "sorafenib (Rx)",
+        "pazopanib (Rx)",
+        "selpercatinib (Rx)",
+        "sunitinib (Rx)"
+    ],
+    "Antineoplastics, Vinca Alkaloid": [
+        "vincristine liposomal (Rx)",
+        "vinorelbine (Rx)",
+        "vinblastine (Rx)",
+        "vincristine (Rx)"
+    ],
+    "Antisense Oligonucleotides": [],
+    "B-Cell Lymphoma Inhibitors": [
+        "venetoclax (Rx)"
+    ],
+    "Biological Response Modifiers": [
+        "interferon gamma 1b (Rx)",
+        "aldesleukin (Rx)",
+        "BCG intravesical live (Rx)",
+        "nadofaragene firadenovec (Pending FDA Approval)",
+        "interferon alfa 2b (Rx)"
+    ],
+    "Bispecific T-Cell Engager (BiTE) Antibodies": [
+        "blinatumomab (Rx)"
+    ],
+    "CAR-T Cell Therapies": [
+        "idecabtagene vicleucel (Rx)",
+        "axicabtagene ciloleucel (Rx)",
+        "brexucabtagene autoleucel (Rx)",
+        "lisocabtagene maraleucel (Rx)",
+        "tisagenlecleucel (Rx)"
+    ],
+    "Cardioprotectant Agents": [
+        "dexrazoxane (Rx)"
+    ],
+    "CCR4 Inhibitors": [
+        "mogamulizumab (Rx)"
+    ],
+    "Chemotherapy Modulating Agents": [
+        "sipuleucel-T (Rx)"
+    ],
+    "CSF1R Inhibitor": [
+        "pexidartinib (Rx)"
+    ],
+    "Cytidine Deaminase Inhibitors": [
+        "cedazuridine (Rx)",
+        "cedazuridine/decitabine (Rx)"
+    ],
+    "Enzymes, Oncology": [
+        "asparaginase Erwinia chrysanthemi (Rx)",
+        "asparaginase recombinant Erwinia (Pending FDA Approval)",
+        "calaspargase pegol (Rx)",
+        "rasburicase (Rx)",
+        "pegloticase (Rx)",
+        "pegaspargase (Rx)"
+    ],
+    "EZH2 Inhibitors": [
+        "tazemetostat (Rx)"
+    ],
+    "FGFR Inhibitors": [
+        "erdafitinib (Rx)",
+        "infigratinib (Pending FDA Approval)",
+        "pemigatinib (Rx)"
+    ],
+    "Hypoxia-Inducible Factors Inhibitors": [
+        "belzutifan (Rx)"
+    ],
+    "IDH1 Inhibitors": [
+        "ivosidenib (Rx)"
+    ],
+    "IDH2 Inhibitors": [
+        "enasidenib (Rx)"
+    ],
+    "Keratinocyte Growth Factors": [
+        "palifermin (Rx)"
+    ],
+    "MET Tyrosine Kinase Inhibitors": [
+        "capmatinib (Rx)",
+        "tepotinib (Rx)"
+    ],
+    "Oncolytic Immunotherapy": [
+        "talimogene laherparepvec (Rx)"
+    ],
+    "PD-1/PD-L1 Inhibitors": [
+        "atezolizumab (Rx)",
+        "avelumab (Rx)",
+        "cemiplimab (Rx)",
+        "dostarlimab (Rx)",
+        "durvalumab (Rx)",
+        "pembrolizumab (Rx)",
+        "nivolumab (Rx)",
+        "retifanlimab (Pending FDA Approval)"
+    ],
+    "PDGFR-alpha Inhibitors": [
+        "avapritinib (Rx)",
+        "imatinib (Rx)",
+        "ripretinib (Rx)"
+    ],
+    "Radiopharmaceuticals": [
+        "iobenguane I 131 (Rx)",
+        "sodium iodide I-131 (Rx)",
+        "lutetium Lu 177-dota-tate (Rx)",
+        "technetium Tc 99m tilmanocept (Rx)",
+        "strontium 89 chloride (Rx)",
+        "samarium sm 153 lexidronam (Rx)",
+        "radium-223 dichloride (Rx)"
+    ],
+    "Rescue Agents, Chemotherapy": [
+        "leucovorin (Rx)"
+    ],
+    "RET Kinase Inhibitors": [
+        "pralsetinib (Rx)",
+        "selpercatinib (Rx)"
+    ],
+    "Selective Inhibitors of Nuclear Export (SINE)": [
+        "selinexor (Rx)"
+    ],
+    "Thymidine Phosphorylase Inhibitors": [
+        "trifluridine/tipiracil (Rx)"
+    ],
+    "Thymidylate Synthetase Inhibitors": [
+        "trifluridine/tipiracil (Rx)"
+    ],
+    "Uroprotectants": [
+        "mesna (Rx)"
+    ]
+}

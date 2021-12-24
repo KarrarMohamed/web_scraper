@@ -1,0 +1,93 @@
+{
+    "Anticholinergic Toxicity Antidotes": [
+        "physostigmine (Rx)"
+    ],
+    "Antidotes, Other": [
+        "acetylcysteine (Antidote) (Rx)",
+        "activated charcoal (OTC)",
+        "ethanol (Rx)",
+        "hyaluronidase (Rx)",
+        "obiltoxaximab (Rx)",
+        "anthrax immune globulin (Rx)",
+        "fomepizole (Rx)",
+        "botulism immune globulin iv (Rx)",
+        "botulinum antitoxin, heptavalent (Rx)",
+        "calcium chloride (Rx)",
+        "calcium gluconate (Rx, OTC)",
+        "digoxin immune FAB (Antidote) (Rx)",
+        "Prussian blue (Rx)",
+        "levoleucovorin (Rx)",
+        "glucarpidase (Rx)",
+        "idarucizumab (Rx)",
+        "potassium iodide (Rx, OTC)",
+        "ipecac syrup (Rx, OTC)",
+        "leucovorin (Rx)",
+        "magnesium (Antidote) (Rx)",
+        "methylene blue (Rx)",
+        "protamine (Rx)",
+        "pyridoxine (Antidote) (Rx)",
+        "raxibacumab (Rx)",
+        "sodium bicarbonate (Antidote) (Rx)",
+        "uridine triacetate (Rx)"
+    ],
+    "Antivenins": [
+        "antivenin, Centruroides (scorpion) (Rx)",
+        "Crotalidae immune FAB (equine) (Rx)",
+        "antivenin, black widow spider (Rx)",
+        "Crotalidae polyvalent immune FAB (ovine) (Rx)"
+    ],
+    "Benzodiazepine Toxicity Antidotes": [
+        "flumazenil (Rx)"
+    ],
+    "Chelators": [
+        "dimercaprol (Rx)",
+        "pentetate calcium trisodium (Rx)",
+        "edetate calcium disodium (Rx)",
+        "succimer (Rx)",
+        "penicillamine (Rx)",
+        "deferasirox (Rx)",
+        "deferiprone (Rx)",
+        "deferoxamine (Rx)",
+        "pentetate zinc trisodium (Rx)"
+    ],
+    "Cholinergic, Toxicity Antidotes": [
+        "pralidoxime (Rx)",
+        "atropine/pralidoxime (Rx)",
+        "atropine IV/IM (Rx)"
+    ],
+    "Cyanide Antidotes": [
+        "amyl nitrite (Rx)",
+        "hydroxocobalamin (Rx)",
+        "sodium thiosulfate & sodium nitrite (Rx)",
+        "sodium thiosulfate (Rx)"
+    ],
+    "Extravasation Antidotes": [
+        "hyaluronidase (Rx)",
+        "terbutaline (Rx)",
+        "phentolamine (Rx)",
+        "sodium thiosulfate (Rx)"
+    ],
+    "Factor Xa Inhibitor Antidotes": [
+        "coagulation factor Xa recombinant, inactivated-zhzo (Rx)"
+    ],
+    "Hypoglycemia Antidotes": [
+        "glucagon intranasal (Rx)",
+        "dasiglucagon (Rx)",
+        "dextrose (Antidote) (Rx)",
+        "glucagon (Rx)",
+        "octreotide (Antidote) (Rx)"
+    ],
+    "Opioid Reversal Agents": [
+        "naloxone (Rx)",
+        "naloxone intranasal (Rx)",
+        "oxycodone/naloxone (Rx)"
+    ],
+    "Potassium Binders": [
+        "sodium polystyrene sulfonate (Rx)",
+        "sodium zirconium cyclosilicate (Rx)",
+        "patiromer (Rx)"
+    ],
+    "Selective Relaxant Binding Agents": [
+        "sugammadex sodium (Rx)"
+    ]
+}

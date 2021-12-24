@@ -1,0 +1,64 @@
+{
+    "5-Alpha-Reductase Inhibitors": [
+        "dutasteride (Rx)",
+        "finasteride (Rx)"
+    ],
+    "Alpha1 Blockers": [
+        "tamsulosin (Rx)"
+    ],
+    "Anticholinergics, Genitourinary": [
+        "darifenacin (Rx)",
+        "tolterodine (Rx)",
+        "fesoterodine (Rx)",
+        "trospium chloride (Rx)",
+        "solifenacin (Rx)"
+    ],
+    "Antispasmodic Agents, Urinary": [
+        "oxybutynin (Rx)",
+        "flavoxate (Rx)",
+        "oxybutynin topical (Rx)",
+        "oxybutynin transdermal (Rx, OTC)"
+    ],
+    "Beta3 Agonists": [
+        "vibegron (Rx)",
+        "mirabegron (Rx)"
+    ],
+    "BPH, Alpha Blockers": [
+        "alfuzosin (Rx)",
+        "doxazosin (Rx)",
+        "tamsulosin (Rx)",
+        "terazosin (Rx)",
+        "silodosin (Rx)"
+    ],
+    "Cholinergics, Genitourinary": [
+        "bethanechol (Rx)"
+    ],
+    "Nephrolithiasis": [
+        "sodium citrate/citric acid (Rx)",
+        "tiopronin (Rx)"
+    ],
+    "Phosphodiesterase-5 Enzyme Inhibitors": [
+        "tadalafil (Rx)",
+        "avanafil (Rx)",
+        "vardenafil (Rx)",
+        "sildenafil (Rx)"
+    ],
+    "Prostaglandins, Genitourinary": [
+        "alprostadil intracavernous/urethral (Rx)"
+    ],
+    "Urinary Acidifying Agents": [
+        "citric acid/glucono-delta-lactone/magnesium carbonate (Rx)",
+        "potassium acid phosphate (Rx)"
+    ],
+    "Urinary Alkalinizing Agents": [
+        "potassium citrate/citric acid (Rx)",
+        "potassium citrate (Rx)"
+    ],
+    "Urologics, Other": [
+        "acetic acid vaginal (Rx)",
+        "aminohippurate sodium (Rx)",
+        "collagenase clostridium histolyticum (Rx)",
+        "dimethyl sulfoxide (Rx)",
+        "dutasteride/tamsulosin (Rx)"
+    ]
+}

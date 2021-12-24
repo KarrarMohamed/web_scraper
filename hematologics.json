@@ -1,0 +1,173 @@
+{
+    "Anticoagulants, Hematologic": [
+        "argatroban (Rx)",
+        "bivalirudin (Rx)",
+        "antithrombin alfa (Rx)",
+        "antithrombin III (Rx)",
+        "fondaparinux (Rx)",
+        "protein C concentrate (Rx)",
+        "warfarin (Rx)",
+        "dabigatran (Rx)",
+        "dalteparin (Rx)",
+        "desirudin (Discontinued)",
+        "enoxaparin (Rx)",
+        "heparin (Rx)",
+        "rivaroxaban (Rx)"
+    ],
+    "Antifibrinolytic Agents": [
+        "aminocaproic acid (Rx)",
+        "aprotinin (Rx)",
+        "tranexamic acid injection (Rx)",
+        "fibrinogen, human (Rx)",
+        "tranexamic acid oral (Rx)"
+    ],
+    "Antiplatelet Agents, Hematologic": [
+        "aspirin (Rx, OTC)",
+        "aspirin/dipyridamole (Rx)",
+        "anagrelide (Rx)",
+        "cilostazol (Rx)",
+        "clopidogrel (Rx)",
+        "dipyridamole (Rx)",
+        "prasugrel (Rx)",
+        "ticlopidine (Discontinued)"
+    ],
+    "Biological Response Modulators": [
+        "oprelvekin (Rx)"
+    ],
+    "Clotting Factors, Gene Therapy": [
+        "valoctocogene roxaparvovec (Pending FDA Approval)"
+    ],
+    "Coagulation Factors": [
+        "antihemophilic factor recombinant (Rx)",
+        "antihemophilic factor/von Willebrand factor complex (Rx)",
+        "Factor IX (Rx)",
+        "Factor IX, recombinant (Rx)",
+        "anti-inhibitor coagulant complex (Rx)",
+        "Factor VIII, human plasma derived (Rx)",
+        "Factor IX complex (Rx)",
+        "Factor XIII A-subunit, recombinant (Rx)",
+        "Factor X, human (Rx)",
+        "factor XIII concentrate, human (Rx)",
+        "emicizumab (Rx)",
+        "Factor IX, recombinant/albumin fusion protein (Rx)",
+        "Factor VIIa, recombinant (Rx)",
+        "von Willebrand factor, recombinant (Rx)"
+    ],
+    "Complement Inhibitors": [
+        "avacopan (Pending FDA Approval)",
+        "pegcetacoplan (Pending FDA Approval)"
+    ],
+    "Erythroid Maturation Agents": [
+        "luspatercept (Rx)"
+    ],
+    "Erythropoiesis-Stimulating Agents": [
+        "epoetin alfa (Rx)"
+    ],
+    "Hematologics, Kinase Inhibitors": [
+        "fedratinib (Rx)",
+        "ruxolitinib (Rx)"
+    ],
+    "Hematopoietic Growth Factors": [
+        "ancestim (Rx)",
+        "darbepoetin alfa (Rx)",
+        "eflapegrastim (Pending FDA Approval)",
+        "eltrombopag (Rx)",
+        "epoetin alfa (Rx)",
+        "filgrastim (Rx)",
+        "pegfilgrastim (Rx)",
+        "sargramostim (Rx)",
+        "oprelvekin (Rx)",
+        "methoxy polyethylene glycol / epoetin beta (Rx)",
+        "romiplostim (Rx)"
+    ],
+    "Hematopoietic Stem Cell Mobilizers": [
+        "ancestim (Rx)",
+        "plerixafor (Rx)"
+    ],
+    "Heme Oxygenase Inhibitors": [
+        "stannsoporfin (Pending FDA Approval)"
+    ],
+    "Hemoglobin Oxygen-Affinity Modulators": [
+        "voxelotor (Rx)"
+    ],
+    "Hemorheologic Agents": [
+        "pentoxifylline (Rx)"
+    ],
+    "Hemostatics": [
+        "antihemophilic factor recombinant (Rx)",
+        "antihemophilic factor/von Willebrand factor complex (Rx)",
+        "Factor IX (Rx)",
+        "Factor IX, recombinant (Rx)",
+        "anti-inhibitor coagulant complex (Rx)",
+        "Factor VIII, human plasma derived (Rx)",
+        "vitamin K1 (phytonadione) (Rx)",
+        "fibrin sealant (Rx)",
+        "Factor IX complex (Rx)",
+        "Factor XIII A-subunit, recombinant (Rx)",
+        "Factor X, human (Rx)",
+        "factor XIII concentrate, human (Rx)",
+        "Factor IX, recombinant/albumin fusion protein (Rx)",
+        "Factor VIIa, recombinant (Rx)",
+        "fibrinogen/thrombin (Rx)",
+        "prothrombin complex concentrate, human (Rx)",
+        "thrombin (Rx)"
+    ],
+    "HIF Stabilizers": [
+        "roxadustat (Pending FDA Approval)"
+    ],
+    "Iron Products": [
+        "ferric maltol (Rx)",
+        "ferric citrate (Rx)",
+        "carbonyl iron (Rx, OTC)",
+        "iron dextran complex (Rx)",
+        "ferrous sulfate (Rx, OTC)",
+        "ferrous fumarate (Rx, OTC)",
+        "ferumoxytol (Rx)",
+        "ferrous gluconate (OTC)",
+        "polysaccharide iron (OTC)",
+        "ferric carboxymaltose (Rx)",
+        "ferric derisomaltose (Rx)",
+        "ferric gluconate (Rx)",
+        "ferric pyrophosphate DIALYSATE (Rx)",
+        "ferric pyrophosphate IV (Rx)",
+        "iron sucrose (Rx)"
+    ],
+    "Low Molecular Weight Heparin": [],
+    "MASP-2 Inhibitor": [
+        "narsoplimab (Pending FDA Approval)"
+    ],
+    "PDE-3 Inhibitors": [
+        "anagrelide (Rx)",
+        "cilostazol (Rx)"
+    ],
+    "Phospholipase A2 Inhibitors": [
+        "anagrelide (Rx)",
+        "cilostazol (Rx)"
+    ],
+    "Recombinant Human Erythropoietins": [
+        "epoetin alfa (Rx)"
+    ],
+    "RNAi Agents": [
+        "givosiran (Rx)",
+        "lumasiran (Rx)",
+        "patisiran (Rx)"
+    ],
+    "Sclerosing Agents": [
+        "polidocanol (Rx)",
+        "ethanolamine oleate (Rx)",
+        "morrhuate sodium (Rx)",
+        "talc powder, sterile (Rx)",
+        "sodium tetradecyl sulfate (Rx)"
+    ],
+    "Selective Bradykinin B2 Receptor Antagonists": [
+        "icatibant (Rx)"
+    ],
+    "SYK Inhibitors": [
+        "fostamatinib (Rx)"
+    ],
+    "Thrombopoietic Agents": [
+        "avatrombopag (Rx)",
+        "lusutrombopag (Rx)",
+        "romiplostim (Rx)"
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "Acetylcholinesterase Inhibitors, Central": [
+        "donepezil transdermal (Pending FDA Approval)",
+        "donepezil (Rx)",
+        "rivastigmine (Rx)",
+        "galantamine (Rx)",
+        "memantine/donepezil (Rx)"
+    ],
+    "Acetylcholinesterase Inhibitors, Peripheral": [
+        "neostigmine (Rx)",
+        "pyridostigmine (Rx)",
+        "physostigmine (Rx)"
+    ],
+    "Adenosine Antagonists": [
+        "istradefylline (Rx)"
+    ],
+    "Alpha2 Adrenergic Agonists": [
+        "guanfacine (Rx)",
+        "tizanidine (Rx)"
+    ],
+    "Anticonvulsants, AMPA Glutamate Antagonists": [
+        "perampanel (Rx)"
+    ],
+    "Anticonvulsants, Barbiturates": [
+        "primidone (Rx)",
+        "phenobarbital (Rx)"
+    ],
+    "Anticonvulsants, Benzodiazepine": [
+        "lorazepam (Rx)",
+        "clobazam (Rx)",
+        "clonazepam (Rx)",
+        "clorazepate (Rx)",
+        "diazepam (Rx)",
+        "diazepam buccal (Pending FDA Approval)",
+        "diazepam intranasal (Rx)",
+        "midazolam (Rx)",
+        "midazolam intranasal (Rx)",
+        "bromazepam"
+    ],
+    "Anticonvulsants, Cannabinoids": [
+        "cannabidiol (Rx)"
+    ],
+    "Anticonvulsants, Hydantoins": [
+        "fosphenytoin (Rx)",
+        "phenytoin (Rx)",
+        "ethotoin (Rx)"
+    ],
+    "Anticonvulsants, Neuronal Potassium Channel Opener": [
+        "ezogabine (Rx)"
+    ],
+    "Anticonvulsants, Other": [
+        "acetazolamide (Rx)",
+        "eslicarbazepine acetate (Rx)",
+        "rufinamide (Rx)",
+        "carbamazepine (Rx)",
+        "cenobamate (Rx)",
+        "valproic acid (Rx)",
+        "divalproex sodium (Rx)",
+        "stiripentol (Rx)",
+        "felbamate (Rx)",
+        "fenfluramine (Rx)",
+        "tiagabine (Rx)",
+        "lacosamide (Rx)",
+        "lamotrigine (Rx)",
+        "pregabalin (Rx)",
+        "oxcarbazepine (Rx)",
+        "topiramate (Rx)",
+        "vigabatrin (Rx)",
+        "zonisamide (Rx)"
+    ],
+    "Anticonvulsants, Succinimide": [
+        "methsuximide (Rx)",
+        "ethosuximide (Rx)"
+    ],
+    "Antimigraine Agents": [
+        "erenumab (Rx)",
+        "almotriptan (Rx)",
+        "naratriptan (Rx)",
+        "atogepant (Pending FDA Approval)",
+        "eletriptan (Rx)",
+        "galcanezumab (Rx)",
+        "eptinezumab (Rx)",
+        "frovatriptan (Rx)",
+        "propranolol (Rx)",
+        "sumatriptan (Rx)",
+        "sumatriptan intranasal (Rx)",
+        "lasmiditan (Rx)",
+        "rizatriptan (Rx)",
+        "rimegepant (Rx)",
+        "zolmitriptan transdermal (Pending FDA Approval)",
+        "topiramate (Rx)",
+        "ubrogepant (Rx)",
+        "zolmitriptan (Rx)"
+    ],
+    "Antiparkinson Agents, Adjunct": [
+        "safinamide (Rx)"
+    ],
+    "Antiparkinson Agents, Anticholinergics": [
+        "trihexyphenidyl (Rx)",
+        "benztropine (Rx)"
+    ],
+    "Antiparkinson Agents, COMT Inhibitors": [
+        "entacapone (Rx)",
+        "entacapone/levodopa/carbidopa (Rx)",
+        "opicapone (Rx)",
+        "tolcapone (Rx)"
+    ],
+    "Antiparkinson Agents, Dopamine Agonists": [
+        "amantadine (Rx)",
+        "apomorphine (Rx)",
+        "bromocriptine (Rx)",
+        "pramipexole (Rx)",
+        "rotigotine (Rx)",
+        "ropinirole (Rx)"
+    ],
+    "Antiparkinson Agents, Dopamine Precursors": [
+        "carbidopa/levodopa (Rx)",
+        "entacapone/levodopa/carbidopa (Rx)",
+        "levodopa inhaled (Rx)"
+    ],
+    "Antiparkinson Agents, MAO Type B Inhibitors": [
+        "rasagiline (Rx)",
+        "selegiline (Rx)",
+        "selegiline transdermal (Rx)",
+        "safinamide (Rx)"
+    ],
+    "Anxiolytics, Barbiturate": [
+        "butabarbital (Rx)"
+    ],
+    "Barbiturates": [
+        "amobarbital (Rx)",
+        "methohexital (Rx)",
+        "pentobarbital (Rx)",
+        "secobarbital (Rx)"
+    ],
+    "Central Monoamine-Depleting Agents": [
+        "deutetrabenazine (Rx)",
+        "valbenazine (Rx)",
+        "tetrabenazine (Rx)"
+    ],
+    "CGRP Monoclonal Antibodies": [
+        "erenumab (Rx)",
+        "fremanezumab (Rx)",
+        "galcanezumab (Rx)",
+        "eptinezumab (Rx)"
+    ],
+    "CGRP Receptor Antagonists": [
+        "atogepant (Pending FDA Approval)",
+        "rimegepant (Rx)",
+        "ubrogepant (Rx)"
+    ],
+    "Cholinergic Agonists": [
+        "guanidine (Rx)",
+        "varenicline intranasal (Pending FDA Approval)"
+    ],
+    "Cholinesterase Inhibitors": [
+        "rivastigmine (Rx)"
+    ],
+    "CNS Depressants": [
+        "calcium/magnesium/potassium/sodium oxybates (Rx)",
+        "sodium oxybate (Rx)"
+    ],
+    "Decarboxylase Inhibitors": [
+        "carbidopa (Rx)",
+        "carbidopa/levodopa (Rx)",
+        "entacapone/levodopa/carbidopa (Rx)"
+    ],
+    "Diagnostics, Neurologics": [],
+    "Ergot Derivatives": [
+        "ergotamine/caffeine (Rx)",
+        "dihydroergotamine (Rx)",
+        "dihydroergotamine intranasal (Rx)",
+        "ergoloid mesylates (Rx)",
+        "ergotamine (Rx)",
+        "methylergonovine (Rx)"
+    ],
+    "Fc Receptor Antagonists": [
+        "efgartigimod (Pending FDA Approval)"
+    ],
+    "GABA Analogs": [
+        "acamprosate (Rx)",
+        "gabapentin (Rx)",
+        "gabapentin enacarbil (Rx)"
+    ],
+    "Glutamate Inhibitors": [
+        "riluzole (Rx)"
+    ],
+    "Histamine H3 Antagonist/Inverse Agonist": [
+        "pitolisant (Rx)"
+    ],
+    "Insomnia": [
+        "zolpidem (Rx)"
+    ],
+    "Monoclonal Antibodies, Anti-amyloid Beta": [
+        "aducanumab (Pending FDA Approval)"
+    ],
+    "Multiple Sclerosis Treatments": [
+        "alemtuzumab (Rx)",
+        "dalfampridine (Rx)",
+        "teriflunomide (Rx)",
+        "interferon beta 1a (Rx)",
+        "monomethyl fumarate (Rx)",
+        "interferon beta 1b (Rx)",
+        "dimethyl fumarate (Rx)",
+        "glatiramer (Rx)",
+        "diroximel fumarate (Rx)",
+        "fampridine (Rx)",
+        "fingolimod (Rx)",
+        "ofatumumab SC (Rx)",
+        "mitoxantrone (Rx)",
+        "natalizumab (Rx)",
+        "ocrelizumab (Rx)",
+        "peginterferon beta-1a (Rx)"
+    ],
+    "Neurologics, Anti-CD20 Monoclonal Antibodies": [
+        "ofatumumab SC (Rx)"
+    ],
+    "Neurologics, Antisense Oligonucleotides": [
+        "casimersen (Rx)",
+        "eteplirsen (Rx)",
+        "golodirsen (Rx)",
+        "nusinersen (Rx)",
+        "viltolarsen (Rx)"
+    ],
+    "Neurologics, Interleukin Inhibitors": [
+        "satralizumab (Rx)"
+    ],
+    "Neurologics, Other": [
+        "edaravone (Rx)",
+        "elamipretide (Pending FDA Approval)",
+        "nimodipine (Rx)",
+        "onasemnogene abeparvovec (Rx)"
+    ],
+    "Neurologics, Tyrosine Kinase Inhibitors": [
+        "masitinib (Pending FDA Approval)"
+    ],
+    "Neuromuscular Blockers, Botulinum Toxins": [
+        "abobotulinumtoxinA (Rx)",
+        "onabotulinumtoxinA (Rx)",
+        "daxibotulinumtoxinA (Pending FDA Approval)",
+        "incobotulinumtoxinA (Rx)",
+        "prabotulinumtoxinA (Rx)",
+        "rimabotulinumtoxinB (Rx)"
+    ],
+    "NMDA Antagonists": [
+        "dextromethorphan/quinidine (Rx)",
+        "esketamine intranasal (Rx)",
+        "memantine (Rx)",
+        "memantine/donepezil (Rx)"
+    ],
+    "Pharmacologic Chaperones": [
+        "arimoclomol (Pending FDA Approval)",
+        "migalastat (Rx)"
+    ],
+    "Potassium Channel Blockers": [
+        "amifampridine (Rx)",
+        "dalfampridine (Rx)"
+    ],
+    "Pyrimidine Synthesis Inhibitors": [
+        "teriflunomide (Rx)"
+    ],
+    "Serotonin 5-HT-Receptor Agonists": [
+        "flibanserin (Rx)",
+        "almotriptan (Rx)",
+        "naratriptan (Rx)",
+        "eletriptan (Rx)",
+        "frovatriptan (Rx)",
+        "sumatriptan (Rx)",
+        "sumatriptan intranasal (Rx)",
+        "rizatriptan (Rx)",
+        "naproxen/sumatriptan (Rx)",
+        "zolmitriptan transdermal (Pending FDA Approval)",
+        "zolmitriptan (Rx)"
+    ],
+    "Serotonin 5-HT1F Agonists": [
+        "lasmiditan (Rx)"
+    ],
+    "SMN Splicing Modifiers": [
+        "risdiplam (Rx)"
+    ],
+    "Sphingosine 1-Phosphate Receptor Modulators": [
+        "fingolimod (Rx)",
+        "siponimod (Rx)",
+        "ozanimod (Rx)",
+        "ponesimod (Rx)"
+    ],
+    "SV2A Ligands": [
+        "brivaracetam (Rx)",
+        "levetiracetam (Rx)"
+    ],
+    "Sympathomimetic": [
+        "phentermine (Rx)",
+        "phendimetrazine (Rx)",
+        "diethylpropion (Rx)"
+    ],
+    "VMAT2 Inhibitors": [
+        "deutetrabenazine (Rx)",
+        "valbenazine (Rx)",
+        "tetrabenazine (Rx)"
+    ]
+}

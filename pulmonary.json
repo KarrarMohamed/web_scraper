@@ -1,0 +1,166 @@
+{
+    "5-Lipoxygenase Inhibitors": [
+        "zileuton (Rx)"
+    ],
+    "Alpha/Beta Agonists": [
+        "epinephrine (Rx)",
+        "epinephrine racemic (OTC)",
+        "epinephrine inhaled (OTC)"
+    ],
+    "Anticholinergics, Inhaled": [
+        "revefenacin (Rx)"
+    ],
+    "Anticholinergics, Respiratory": [
+        "aclidinium (Rx)",
+        "umeclidinium bromide/vilanterol inhaled (Rx)",
+        "ipratropium (Rx)",
+        "glycopyrrolate inhaled/formoterol (Rx)",
+        "glycopyrrolate inhaled (Rx)",
+        "umeclidinium bromide (Rx)",
+        "indacaterol, inhaled/glycopyrrolate inhaled (Rx)",
+        "tiotropium (Rx)",
+        "umeclidinium bromide/vilanterol inhaled/fluticasone furoate inhaled (Rx)"
+    ],
+    "Beta2 Agonists": [
+        "albuterol (salbutamol) (Rx)",
+        "umeclidinium bromide/vilanterol inhaled (Rx)",
+        "indacaterol, inhaled (Rx)",
+        "arformoterol (Rx)",
+        "glycopyrrolate inhaled/formoterol (Rx)",
+        "vilanterol/fluticasone furoate inhaled (Rx)",
+        "terbutaline (Rx)",
+        "budesonide inhaled/formoterol/glycopyrrolate inhaled (Rx)",
+        "celiprolol (Pending FDA Approval)",
+        "formoterol (Rx)",
+        "indacaterol, inhaled/glycopyrrolate inhaled (Rx)",
+        "levalbuterol (Rx)",
+        "pirbuterol (Discontinued)",
+        "metaproterenol (Rx)",
+        "olodaterol inhaled (Rx)",
+        "salmeterol (Rx)",
+        "umeclidinium bromide/vilanterol inhaled/fluticasone furoate inhaled (Rx)"
+    ],
+    "CFTR Correctors": [
+        "elexacaftor (Rx)",
+        "elexacaftor/tezacaftor/ivacaftor (Rx)",
+        "lumacaftor/ivacaftor (Rx)",
+        "tezacaftor/ivacaftor (Rx)"
+    ],
+    "CFTR Potentiators": [
+        "elexacaftor/tezacaftor/ivacaftor (Rx)",
+        "ivacaftor (Rx)",
+        "lumacaftor/ivacaftor (Rx)",
+        "tezacaftor/ivacaftor (Rx)"
+    ],
+    "COPD Agents": [
+        "salmeterol/fluticasone inhaled (Rx)",
+        "glycopyrrolate inhaled/formoterol (Rx)",
+        "budesonide inhaled/formoterol/glycopyrrolate inhaled (Rx)",
+        "glycopyrrolate inhaled (Rx)",
+        "indacaterol, inhaled/glycopyrrolate inhaled (Rx)"
+    ],
+    "Corticosteroids, Inhalants": [
+        "ciclesonide inhaled (Rx)",
+        "fluticasone inhaled (Rx)",
+        "fluticasone furoate inhaled (Rx)",
+        "mometasone inhaled (Rx)",
+        "beclomethasone, inhaled (Rx)",
+        "vilanterol/fluticasone furoate inhaled (Rx)",
+        "budesonide inhaled/formoterol/glycopyrrolate inhaled (Rx)",
+        "budesonide inhaled (Rx)",
+        "umeclidinium bromide/vilanterol inhaled/fluticasone furoate inhaled (Rx)"
+    ],
+    "Enzymes, Mucolytic": [
+        "dornase alfa (Rx)"
+    ],
+    "Leukotriene Receptor Antagonists": [
+        "zafirlukast (Rx)",
+        "montelukast (Rx)"
+    ],
+    "Lung Surfactants": [
+        "beractant (Rx)",
+        "calfactant (Rx)",
+        "poractant alfa (Rx)",
+        "lucinactant (Rx)"
+    ],
+    "Mast Cell Stabilizers": [
+        "cromolyn sodium (Rx)",
+        "cromolyn sodium, inhaled (Rx)"
+    ],
+    "Monoclonal Antibodies, Anti-asthmatics": [
+        "benralizumab (Rx)",
+        "reslizumab (Rx)",
+        "mepolizumab (Rx)",
+        "omalizumab (Rx)"
+    ],
+    "P2X3 Antagonists": [
+        "gefapixant (Pending FDA Approval)"
+    ],
+    "PAH, Endothelin Antagonists": [
+        "ambrisentan (Rx)",
+        "bosentan (Rx)",
+        "macitentan (Rx)"
+    ],
+    "PAH, PDE-5 Inhibitors": [
+        "tadalafil (Rx)",
+        "sildenafil (Rx)"
+    ],
+    "PAH, Prostacyclin Agonists": [
+        "selexipag (Rx)"
+    ],
+    "PAH, Prostacyclin Analogs": [
+        "epoprostenol (Rx)",
+        "iloprost (Rx)",
+        "treprostinil (Rx)",
+        "treprostinil inhaled (Rx)",
+        "treprostinil SC (Pending FDA Approval)"
+    ],
+    "Phosphodiesterase Enzyme Inhibitors, Nonselective": [
+        "theophylline (Rx)",
+        "inamrinone (Rx)",
+        "caffeine (Rx, OTC)",
+        "dyphylline (Discontinued)"
+    ],
+    "Phosphodiesterase-4 Enzyme Inhibitors": [
+        "roflumilast (Rx)"
+    ],
+    "Pulmonary, Other": [
+        "acetylcysteine (Rx)",
+        "alpha 1 proteinase inhibitor (Rx)",
+        "mannitol inhalation (Rx)",
+        "nitric oxide gas (Rx)"
+    ],
+    "Pulmonary, Tyrosine Kinase Inhibitors": [
+        "nintedanib (Rx)"
+    ],
+    "Respiratory Inhalant Combos": [
+        "aclidinium/formoterol (Rx)",
+        "salmeterol/fluticasone inhaled (Rx)",
+        "albuterol/ipratropium (Rx)",
+        "umeclidinium bromide/vilanterol inhaled (Rx)",
+        "glycopyrrolate inhaled/formoterol (Rx)",
+        "vilanterol/fluticasone furoate inhaled (Rx)",
+        "budesonide inhaled/formoterol/glycopyrrolate inhaled (Rx)",
+        "mometasone inhaled/formoterol (Rx)",
+        "formoterol/budesonide inhaled (Rx)",
+        "indacaterol, inhaled/glycopyrrolate inhaled (Rx)",
+        "tiotropium/olodaterol inhaled (Rx)",
+        "umeclidinium bromide/vilanterol inhaled/fluticasone furoate inhaled (Rx)"
+    ],
+    "Respiratory Stimulants": [
+        "caffeine (Rx, OTC)",
+        "doxapram (Rx)"
+    ],
+    "Soluble Guanylate Cyclase Stimulators": [
+        "riociguat (Rx)",
+        "vericiguat (Rx)"
+    ],
+    "Transforming Growth Factor Inhibitors": [
+        "pirfenidone (Rx)"
+    ],
+    "Xanthine Derivatives": [
+        "theophylline (Rx)",
+        "dyphylline (Discontinued)",
+        "lesinurad/allopurinol (Discontinued)"
+    ]
+}

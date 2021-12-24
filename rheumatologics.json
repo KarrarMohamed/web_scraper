@@ -1,0 +1,77 @@
+{
+    "Anti-Inflammatory Agents": [
+        "methylprednisolone (Rx)",
+        "dexamethasone (Rx)",
+        "flavocoxid/citrated zinc bisglycinate (Rx)"
+    ],
+    "Antigout Agents": [
+        "allopurinol (Rx)",
+        "colchicine (Rx)",
+        "colchicine/probenecid (Rx)",
+        "lesinurad/allopurinol (Discontinued)",
+        "febuxostat (Rx)",
+        "lesinurad (Discontinued)"
+    ],
+    "DMARDs, Gold Compounds": [
+        "auranofin (Rx)",
+        "gold sodium thiomalate (Discontinued)"
+    ],
+    "DMARDs, Immunomodulators": [
+        "abatacept (Rx)",
+        "tocilizumab (Rx)",
+        "anakinra (Rx)",
+        "azathioprine (Rx)",
+        "cyclophosphamide (Rx)",
+        "cyclosporine (Rx)",
+        "methotrexate (Rx)",
+        "tofacitinib (Rx)"
+    ],
+    "DMARDs, JAK Inhibitors": [
+        "baricitinib (Rx)",
+        "upadacitinib (Rx)",
+        "tofacitinib (Rx)"
+    ],
+    "DMARDs, Other": [
+        "leflunomide (Rx)",
+        "sulfasalazine (Rx)",
+        "hydroxychloroquine sulfate (Rx)",
+        "rituximab (Rx)"
+    ],
+    "DMARDs, PDE4 Inhibitors": [
+        "apremilast (Rx)"
+    ],
+    "DMARDs, TNF Inhibitors": [
+        "adalimumab (Rx)",
+        "infliximab (Rx)",
+        "certolizumab pegol (Rx)",
+        "etanercept (Rx)",
+        "golimumab (Rx)"
+    ],
+    "Fibromyalgia Agents": [
+        "duloxetine (Rx)",
+        "pregabalin (Rx)",
+        "milnacipran (Rx)"
+    ],
+    "Rheumatologics, Antisense Oligonucleotides": [
+        "inotersen (Rx)"
+    ],
+    "Rheumatologics, Other": [
+        "sodium hyaluronate (Rx)",
+        "belimumab (Rx)",
+        "collagenase clostridium histolyticum (Rx)",
+        "hyaluronic acid and derivatives (Rx)",
+        "pegloticase (Rx)"
+    ],
+    "Selective Uric acid Reabsorption Inhibitor (SURI)": [
+        "lesinurad/allopurinol (Discontinued)",
+        "lesinurad (Discontinued)"
+    ],
+    "Uricosuric Agents": [
+        "probenecid (Rx)",
+        "colchicine/probenecid (Rx)"
+    ],
+    "Xanthine Oxidase Inhibitors": [
+        "allopurinol (Rx)",
+        "febuxostat (Rx)"
+    ]
+}

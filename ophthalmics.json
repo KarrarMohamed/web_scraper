@@ -1,0 +1,215 @@
+{
+    "Alpha Agonists, Ophthalmic": [
+        "naphazoline ophthalmic (Rx, OTC)",
+        "phenylephrine ophthalmic (Rx, OTC)",
+        "oxymetazoline ophthalmic (Rx)"
+    ],
+    "Aminoglycosides, Ophthalmic": [
+        "tobramycin ophthalmic (Rx)",
+        "gentamicin ophthalmic (Rx)",
+        "natamycin ophthalmic (Rx)"
+    ],
+    "Anesthetics, Ophthalmic": [
+        "lidocaine ophthalmic (Rx)",
+        "proparacaine ophthalmic (Rx)",
+        "benoxinate/fluorescein ophthalmic (Rx)",
+        "fluorescein/proparacaine ophthalmic (Rx)"
+    ],
+    "Antibiotics, Ophthalmic": [
+        "bacitracin ophthalmic (Rx)",
+        "sulfacetamide ophthalmic (Rx)"
+    ],
+    "Antibiotics, Ophthalmic Combos": [
+        "polymyxin B/bacitracin ophthalmic (Rx)",
+        "neomycin/polymyxin B/gramicidin ophthalmic (Rx)",
+        "neomycin/polymyxin B/bacitracin ophthalmic (Rx)",
+        "trimethoprim/polymyxin B ophthalmic (Rx)"
+    ],
+    "Antibiotics/Corticosteroids, Ophthalmic": [
+        "prednisolone/sulfacetamide ophthalmic (Rx)",
+        "dexamethasone/neomycin/polymyxin (Rx)",
+        "dexamethasone/tobramycin (Rx)",
+        "prednisolone/gentamicin ophthalmic (Rx)",
+        "tobramycin/loteprednol ophthalmic (Rx)"
+    ],
+    "Anticholinergic Agents, Ophthalmic": [
+        "cyclopentolate (Rx)",
+        "atropine ophthalmic (Rx)"
+    ],
+    "Antiglaucoma, Alpha Agonists": [
+        "brimonidine (Rx, OTC)",
+        "apraclonidine (Rx)"
+    ],
+    "Antiglaucoma, Beta-Blockers": [
+        "levobunolol (Rx)",
+        "betaxolol ophthalmic (Rx)",
+        "timolol ophthalmic (Rx)",
+        "carteolol ophthalmic (Rx)",
+        "metipranolol ophthalmic (Discontinued)"
+    ],
+    "Antiglaucoma, Carbonic Anhydrase Inhibitors": [
+        "acetazolamide (Rx)",
+        "brinzolamide (Rx)",
+        "dorzolamide (Rx)",
+        "methazolamide (Rx)"
+    ],
+    "Antiglaucoma, Combos": [
+        "brinzolamide/brimonidine (Rx)",
+        "timolol/brimonidine (Rx)",
+        "timolol/dorzolamide (Rx)",
+        "latanoprost/netarsudil ophthalmic (Rx)"
+    ],
+    "Antiglaucoma, Miotics": [
+        "carbachol (Rx)",
+        "echothiophate iodide (Rx)"
+    ],
+    "Antiglaucoma, Prostaglandin Agonists": [
+        "bimatoprost (Rx)",
+        "bimatoprost ophthalmic implant (Rx)",
+        "latanoprost (Rx)",
+        "latanoprostene bunod ophthalmic (Rx)",
+        "omidenepag isopropyl ophthalmic (Pending FDA Approval)",
+        "unoprostone ophthalmic (Rx)",
+        "tafluprost (Rx)",
+        "travoprost ophthalmic (Rx)"
+    ],
+    "Antihistamines, Ophthalmic": [
+        "ketotifen, ophthalmic (OTC)",
+        "alcaftadine ophthalmic (Rx)",
+        "azelastine ophthalmic (Rx)",
+        "bepotastine (Rx)",
+        "cetirizine ophthalmic (Rx)",
+        "epinastine (Rx)",
+        "emedastine (Discontinued)",
+        "olopatadine ophthalmic (Rx, OTC)"
+    ],
+    "Antihistamines/Decongestants, Ophthalmic": [
+        "naphazoline/pheniramine ophthalmic (OTC)"
+    ],
+    "Antivirals, Ophthalmic": [
+        "acyclovir ophthalmic (Rx)",
+        "fluorometholone (Rx)",
+        "ganciclovir ophthalmic (Rx)",
+        "trifluridine ophthalmic (Rx)"
+    ],
+    "Corticosteroids, Ophthalmic": [
+        "loteprednol ophthalmic (Rx)",
+        "dexamethasone intraocular (Rx)",
+        "dexamethasone intravitreal implant (Rx)",
+        "dexamethasone ophthalmic (Rx)",
+        "dexamethasone ophthalmic insert (Rx)",
+        "difluprednate ophthalmic (Rx)",
+        "prednisolone ophthalmic (Rx)",
+        "fluorometholone (Rx)",
+        "fluocinolone intravitreal implant (Rx)",
+        "neomycin/polymyxin B/hydrocortisone/bacitracin ophthalmic (Rx)",
+        "rimexolone ophthalmic (Discontinued)",
+        "triamcinolone intravitreal (Rx)",
+        "triamcinolone suprachoroidal (Pending FDA Approval)"
+    ],
+    "Cycloplegics/Mydriatics": [
+        "cyclopentolate (Rx)",
+        "phenylephrine ophthalmic (Rx, OTC)",
+        "atropine ophthalmic (Rx)",
+        "cyclopentolate/phenylephrine (Rx)",
+        "hydroxyamphetamine/tropicamide (Rx)",
+        "ketorolac/phenylephrine ophthalmic (Rx)",
+        "tropicamide/phenylephrine ophthalmic (Pending FDA Approval)",
+        "tropicamide (Rx)"
+    ],
+    "Decongestants, Ophthalmic": [
+        "naphazoline ophthalmic (Rx, OTC)",
+        "naphazoline/zinc sulfate/glycerin ophthalmic (OTC)",
+        "naphazoline/glycerin ophthalmic (OTC)",
+        "tetrahydrozoline, ophthalmic (OTC)"
+    ],
+    "Diagnostics, Ophthalmics": [
+        "benoxinate/fluorescein ophthalmic (Rx)",
+        "fluorescein ophthalmic (OTC)",
+        "fluorescein/proparacaine ophthalmic (Rx)"
+    ],
+    "LFA-1 Agonists": [
+        "lifitegrast ophthalmic (Rx)"
+    ],
+    "Macrolides, Ophthalmic": [
+        "azithromycin ophthalmic (Rx)",
+        "erythromycin ophthalmic (Rx)"
+    ],
+    "Macular Degeneration Agents": [
+        "abicipar pegol (Pending FDA Approval)",
+        "aflibercept intravitreal (Rx)",
+        "brolucizumab intravitreal (Rx)",
+        "ranibizumab (Rx)",
+        "pegaptanib (Rx)",
+        "verteporfin (Rx)"
+    ],
+    "Mast Cell Stabilizers, Ophthalmic": [
+        "nedocromil ophthalmic (Rx)",
+        "lodoxamide ophthalmic (Rx)",
+        "cromolyn sodium, ophthalmic (Rx)",
+        "cromolyn sodium (Rx)"
+    ],
+    "Miotics, Cholinesterase Inhibitors": [
+        "echothiophate iodide (Rx)"
+    ],
+    "Miotics, Direct-Acting": [
+        "acetylcholine (Rx)",
+        "pilocarpine ophthalmic (Rx)",
+        "carbachol (Rx)"
+    ],
+    "Ophthalmic Lubricants": [
+        "artificial tears (Rx)",
+        "carboxymethylcellulose ophthalmic (OTC)",
+        "hypromellose/carboxymethylcellulose ophthalmic (OTC)",
+        "hydroxyethyl cellulose ophthalmic (OTC)",
+        "hydroxypropyl cellulose ophthalmic (Rx)",
+        "mineral oil/petrolatum ophthalmic (OTC)",
+        "polyethylene glycol 400/propylene glycol ophthalmic (OTC)",
+        "povidone ophthalmic (OTC)",
+        "propylene glycol ophthalmic (OTC)",
+        "tetrahydrozoline/zinc sulfate/hypromellose ophthalmic (OTC)"
+    ],
+    "Ophthalmic NSAIDs": [
+        "ketorolac ophthalmic (Rx)",
+        "bromfenac ophthalmic (Rx)",
+        "diclofenac ophthalmic (Rx)",
+        "flurbiprofen ophthalmic (Rx)",
+        "nepafenac ophthalmic (Rx)",
+        "ketorolac/phenylephrine ophthalmic (Rx)"
+    ],
+    "Ophthalmic Stains": [
+        "brilliant blue G ophthalmic (Rx)"
+    ],
+    "Ophthalmics, Other": [
+        "sodium hyaluronate (Rx)",
+        "purified water, ophthalmic (OTC)",
+        "cenegermin (Rx)",
+        "cyclosporine ophthalmic (Rx)",
+        "cysteamine ophthalmic (Rx)",
+        "mitomycin ophthalmic (Rx)",
+        "sodium chloride hypertonic, ophthalmic (OTC)",
+        "netarsudil ophthalmic (Rx)",
+        "riboflavin 5'-phosphate ophthalmic (Rx)"
+    ],
+    "Ophthalmics, VEGF Inhibitors": [
+        "abicipar pegol (Pending FDA Approval)",
+        "aflibercept intravitreal (Rx)",
+        "brolucizumab intravitreal (Rx)",
+        "ranibizumab (Rx)",
+        "pegaptanib (Rx)"
+    ],
+    "Quinolones, Ophthalmic": [
+        "besifloxacin ophthalmic (Rx)",
+        "ciprofloxacin ophthalmic (Rx)",
+        "gatifloxacin ophthalmic (Rx)",
+        "levofloxacin ophthalmic (Rx)",
+        "moxifloxacin ophthalmic (Rx)",
+        "ofloxacin ophthalmic (Rx)"
+    ],
+    "Retinal Gene Therapies": [
+        "voretigene neparvovec (Rx)"
+    ],
+    "Vitreolytics": [
+        "ocriplasmin intravitreal (Rx)"
+    ]
+}

@@ -1,0 +1,432 @@
+{
+    "Aminoglycosides": [
+        "amikacin (Rx)",
+        "amikacin liposome inhalation (Rx)",
+        "tobramycin inhaled (Rx)",
+        "gentamicin (Rx)",
+        "kanamycin (Discontinued)",
+        "neomycin PO (Rx)",
+        "tobramycin (Rx)",
+        "plazomicin (Rx)",
+        "streptomycin (Rx)"
+    ],
+    "Anthelmintics": [
+        "albendazole (Rx)",
+        "praziquantel (Rx)",
+        "diethylcarbamazine (Rx)",
+        "triclabendazole (Rx)",
+        "mebendazole (Rx)",
+        "ivermectin (Rx)",
+        "moxidectin (Rx)",
+        "pyrantel pamoate (Rx)"
+    ],
+    "Antibiotics, Combos": [
+        "trimethoprim/sulfamethoxazole (Rx)"
+    ],
+    "Antibiotics, Lincosamide": [
+        "clindamycin (Rx)",
+        "lincomycin (Rx)"
+    ],
+    "Antibiotics, Oral Rinse": [
+        "chlorhexidine oral (Rx, OTC)"
+    ],
+    "Antibiotics, Other": [
+        "rifamycin (Rx)",
+        "sulfanilamide (Rx)",
+        "bacitracin (Discontinued)",
+        "chloramphenicol (Rx)",
+        "colistin (Rx)",
+        "methenamine/sodium salicylate/benzoic acid (OTC)",
+        "methenamine/hyoscyamine (Discontinued)",
+        "fosfomycin (Rx)",
+        "nitrofurantoin (Rx)",
+        "methenamine (Rx)",
+        "iclaprim (Pending FDA Approval)",
+        "linezolid (Rx)",
+        "methenamine/hyoscyamine/methylene blue/phenyl salicylate/sodium phosphate monobasic (Rx)",
+        "methenamine/sodium acid phosphate (Rx)",
+        "metronidazole vaginal (Rx)",
+        "polymyxin B (Rx)",
+        "trimethoprim (Rx)",
+        "rifaximin (Rx)"
+    ],
+    "Antifungals, Echinocandin": [
+        "anidulafungin (Rx)",
+        "caspofungin (Rx)",
+        "micafungin (Rx)"
+    ],
+    "Antifungals, Other": [
+        "clotrimazole (Rx, OTC)",
+        "miconazole oral (Rx)",
+        "nystatin (Rx)"
+    ],
+    "Antifungals, Systemic": [
+        "flucytosine (Rx)",
+        "amphotericin B phospholipid complex (Rx)",
+        "amphotericin B liposomal (Rx)",
+        "amphotericin B cholesteryl sulfate (Rx)",
+        "amphotericin B deoxycholate (Rx)",
+        "anidulafungin (Rx)",
+        "ibrexafungerp (Pending FDA Approval)",
+        "caspofungin (Rx)",
+        "isavuconazonium sulfate (Rx)",
+        "fluconazole (Rx)",
+        "griseofulvin (Discontinued)",
+        "itraconazole (Rx)",
+        "ketoconazole (Rx)",
+        "terbinafine (Rx)",
+        "micafungin (Rx)",
+        "nystatin (Rx)",
+        "posaconazole (Rx)",
+        "voriconazole (Rx)"
+    ],
+    "Antifungals, Vaginal": [
+        "butoconazole (Rx, OTC)",
+        "miconazole vaginal (Rx, OTC)",
+        "nystatin vaginal (Rx)",
+        "terconazole vaginal (Rx)",
+        "tioconazole (OTC)"
+    ],
+    "Antileishmaniasis Agents": [
+        "miltefosine (Rx)",
+        "sodium stibogluconate (Rx)"
+    ],
+    "Antileprosy Agents": [
+        "dapsone (Rx)"
+    ],
+    "Antimalarials": [
+        "tafenoquine (Rx)",
+        "artemether/lumefantrine (Rx)",
+        "artesunate (Rx)",
+        "atovaquone (Rx)",
+        "atovaquone/proguanil (Rx)",
+        "chloroquine (Rx)",
+        "pyrimethamine (Rx)",
+        "hydroxychloroquine sulfate (Rx)",
+        "mefloquine (Rx)",
+        "primaquine (Rx)",
+        "quinine (Rx)",
+        "quinidine (Rx)"
+    ],
+    "Antimalarials, Aminoquinoline": [
+        "tafenoquine (Rx)",
+        "chloroquine (Rx)",
+        "hydroxychloroquine sulfate (Rx)",
+        "primaquine (Rx)"
+    ],
+    "Antimalarials, Artemisinin Derivative": [
+        "artesunate (Rx)"
+    ],
+    "Antimicrobials, Adjunct": [
+        "acetohydroxamic acid (Rx)",
+        "taurolidine/citrate/heparin (Pending FDA Approval)"
+    ],
+    "Antiparasitic Agents": [
+        "nitazoxanide (Rx)",
+        "benznidazole (Rx)",
+        "pyrimethamine (Rx)",
+        "paromomycin (Rx)",
+        "iodoquinol (Rx)",
+        "mineral oil topical (OTC)",
+        "tinidazole (Rx)"
+    ],
+    "Antipneumocystis Agents": [
+        "pentamidine (Rx)"
+    ],
+    "Antiprotozoal Agents": [
+        "melarsoprol (Rx)",
+        "eflornithine (Rx)",
+        "nifurtimox (Rx)",
+        "suramin (Rx)"
+    ],
+    "Antiretroviral Agents": [
+        "abacavir (Rx)",
+        "atazanavir (Rx)",
+        "indinavir (Rx)",
+        "ibalizumab (Rx)"
+    ],
+    "Antitubercular Agents": [
+        "aminosalicylic acid (Rx)",
+        "bedaquiline (Rx)",
+        "capreomycin (Rx)",
+        "clofazimine (Rx)",
+        "cycloserine (Rx)",
+        "ethambutol (Rx)",
+        "ethionamide (Rx)",
+        "isoniazid (Rx)",
+        "rifabutin (Rx)",
+        "pretomanid (Rx)",
+        "rifapentine (Rx)",
+        "pyrazinamide (Rx)",
+        "rifampin (Rx)",
+        "rifampin/isoniazid (Rx)",
+        "rifampin/isoniazid/pyrazinamide (Rx)"
+    ],
+    "Antivirals, CMV": [
+        "cidofovir (Rx)",
+        "ganciclovir (Rx)",
+        "foscarnet (Rx)",
+        "letermovir (Rx)",
+        "valganciclovir (Rx)"
+    ],
+    "Antivirals, Endonuclease Inhibitors": [
+        "baloxavir marboxil (Rx)"
+    ],
+    "Antivirals, HSV": [
+        "acyclovir (Rx)"
+    ],
+    "Antivirals, Influenza": [
+        "amantadine (Rx)",
+        "baloxavir marboxil (Rx)",
+        "rimantadine (Rx)",
+        "oseltamivir (Rx)",
+        "peramivir (Rx)",
+        "zanamivir (Rx)"
+    ],
+    "Antivirals, Other": [
+        "acyclovir (Rx)",
+        "brincidofovir (Pending FDA Approval)",
+        "famciclovir (Rx)",
+        "foscarnet (Rx)",
+        "remdesivir (Rx)",
+        "tecovirimat (Rx)",
+        "valacyclovir (Rx)",
+        "valganciclovir (Rx)"
+    ],
+    "Antivirals, VZV": [
+        "acyclovir (Rx)"
+    ],
+    "Carbapenems": [
+        "doripenem (Rx)",
+        "ertapenem (Rx)",
+        "imipenem/cilastatin (Rx)",
+        "imipenem/cilastatin/relebactam (Rx)",
+        "meropenem (Rx)",
+        "meropenem/vaborbactam (Rx)",
+        "sulopenem (Pending FDA Approval)",
+        "sulopenem etzadroxil/probenecid (Pending FDA Approval)"
+    ],
+    "Cephalosporins, 1st Generation": [
+        "cefazolin (Rx)",
+        "cefadroxil (Rx)",
+        "cephalexin (Rx)"
+    ],
+    "Cephalosporins, 2nd Generation": [
+        "cefaclor (Rx)",
+        "cefotetan (Rx)",
+        "cefoxitin (Rx)",
+        "cefprozil (Rx)",
+        "cefuroxime (Rx)"
+    ],
+    "Cephalosporins, 3rd Generation": [
+        "ceftazidime/avibactam (Rx)",
+        "ceftibuten (Rx)",
+        "cefdinir (Rx)",
+        "cefditoren (Rx)",
+        "cefixime (Rx)",
+        "cefotaxime (Rx)",
+        "cefpodoxime (Rx)",
+        "ceftazidime (Rx)",
+        "ceftriaxone (Rx)"
+    ],
+    "Cephalosporins, Other": [
+        "cefepime (Rx)",
+        "cefiderocol (Rx)",
+        "ceftaroline (Rx)",
+        "ceftolozane/tazobactam (Rx)"
+    ],
+    "CYP450 Inhibitors": [
+        "cobicistat (Rx)"
+    ],
+    "Diagnostics, Antimicrobials": [
+        "tuberculin purified protein derivative (Rx)"
+    ],
+    "Fluoroquinolones": [
+        "moxifloxacin (Rx)",
+        "delafloxacin (Rx)",
+        "ciprofloxacin (Rx)",
+        "gemifloxacin (Rx)",
+        "ofloxacin (Rx)",
+        "levofloxacin (Rx)"
+    ],
+    "Fluoroquinolones, Inhaled": [
+        "ciprofloxacin inhaled (Pending FDA Approval)"
+    ],
+    "Glycopeptides": [
+        "dalbavancin (Rx)",
+        "vancomycin (Rx)",
+        "oritavancin (Rx)",
+        "telavancin (Rx)"
+    ],
+    "Glycylcyclines": [
+        "tigecycline (Rx)"
+    ],
+    "HCV NS3/4A Protease Inhibitors": [
+        "elbasvir/grazoprevir (Rx)",
+        "glecaprevir/pibrentasvir (Rx)"
+    ],
+    "Hepatitis B, NRTIs": [
+        "adefovir (Rx)",
+        "tenofovir AF (Rx)"
+    ],
+    "Hepatitis B/Hepatitis C Agents": [
+        "lamivudine (Rx)",
+        "adefovir (Rx)",
+        "entecavir (Rx)",
+        "ribavirin (Rx)",
+        "interferon alfa 2b (Rx)",
+        "simeprevir (Discontinued)",
+        "peginterferon alfa 2b (Rx)",
+        "peginterferon alfa 2a (Rx)",
+        "sofosbuvir (Rx)"
+    ],
+    "HIV, ART Combos": [
+        "lamivudine/zidovudine (Rx)",
+        "abacavir/dolutegravir/lamivudine (Rx)",
+        "atazanavir/cobicistat (Rx)",
+        "emtricitabine/tenofovir DF/efavirenz (Rx)",
+        "bictegravir/emtricitabine/tenofovir AF (Rx)",
+        "lamivudine/tenofovir DF (Rx)",
+        "emtricitabine/rilpivirine/tenofovir DF (Rx)",
+        "darunavir/cobicistat (Rx)",
+        "darunavir/cobicistat/emtricitabine/tenofovir AF (Rx)",
+        "doravirine/lamivudine/tenofovir DF (Rx)",
+        "emtricitabine/tenofovir AF (Rx)",
+        "dolutegravir/lamivudine (Rx)",
+        "lamivudine/raltegravir (Rx)",
+        "efavirenz/lamivudine/tenofovir DF (Rx)",
+        "elvitegravir/cobicistat/emtricitabine/tenofovir AF (Rx)",
+        "elvitegravir/cobicistat/emtricitabine/tenofovir DF (Rx)",
+        "emtricitabine/tenofovir DF (Rx)",
+        "lamivudine/abacavir (Rx)",
+        "lamivudine/zidovudine/abacavir (Rx)",
+        "emtricitabine/rilpivirine/tenofovir AF (Rx)"
+    ],
+    "HIV, Attachment Inhibitors": [
+        "fostemsavir (Rx)"
+    ],
+    "HIV, CRAs": [
+        "maraviroc (Rx)"
+    ],
+    "HIV, Entry Inhibitors": [
+        "ibalizumab (Rx)"
+    ],
+    "HIV, Fusion Inhibitors": [
+        "enfuvirtide (Rx)"
+    ],
+    "HIV, Integrase Inhibitors": [
+        "cabotegravir/rilpivirine (Rx)",
+        "cabotegravir (Rx)",
+        "dolutegravir (Rx)",
+        "dolutegravir/rilpivirine (Rx)",
+        "raltegravir (Rx)"
+    ],
+    "HIV, NNRTIs": [
+        "cabotegravir/rilpivirine (Rx)",
+        "dolutegravir/rilpivirine (Rx)",
+        "doravirine (Rx)",
+        "rilpivirine (Rx)",
+        "efavirenz (Rx)",
+        "etravirine (Rx)",
+        "nevirapine (Rx)"
+    ],
+    "HIV, NRTIs": [
+        "lamivudine (Rx)",
+        "abacavir (Rx)",
+        "stavudine (Rx)",
+        "didanosine (Rx)",
+        "emtricitabine (Rx)",
+        "zidovudine (Rx)",
+        "tenofovir DF (Rx)"
+    ],
+    "HIV, Protease Inhibitors": [
+        "tipranavir (Rx)",
+        "atazanavir (Rx)",
+        "indinavir (Rx)",
+        "darunavir (Rx)",
+        "fosamprenavir (Rx)",
+        "saquinavir (Rx)",
+        "lopinavir/ritonavir (Rx)",
+        "nelfinavir (Rx)",
+        "ritonavir (Rx)"
+    ],
+    "Ketolides": [],
+    "Lipopeptides": [
+        "daptomycin (Rx)"
+    ],
+    "Macrolides": [
+        "azithromycin (Rx)",
+        "clarithromycin (Rx)",
+        "fidaxomicin (Rx)",
+        "erythromycin ethylsuccinate (Rx)",
+        "erythromycin base (Rx)",
+        "erythromycin lactobionate (Rx)",
+        "erythromycin stearate (Rx)"
+    ],
+    "Monobactams": [
+        "aztreonam (Rx)",
+        "aztreonam inhalation (Rx)"
+    ],
+    "Neuraminidase Inhibitors": [
+        "oseltamivir (Rx)",
+        "peramivir (Rx)",
+        "zanamivir (Rx)"
+    ],
+    "Nitroimidazoles": [
+        "metronidazole (Rx)",
+        "secnidazole (Rx)",
+        "tinidazole (Rx)"
+    ],
+    "Oxazolidinones": [
+        "linezolid (Rx)",
+        "tedizolid (Rx)"
+    ],
+    "Penicillins, Amino": [
+        "amoxicillin (Rx)",
+        "amoxicillin/clavulanate (Rx)",
+        "ampicillin (Rx)",
+        "ampicillin/sulbactam (Rx)"
+    ],
+    "Penicillins, Extended-Spectrum": [
+        "piperacillin (Rx)",
+        "piperacillin/tazobactam (Rx)",
+        "ticarcillin/clavulanate (Rx)"
+    ],
+    "Penicillins, Natural": [
+        "penicillin G benzathine/penicillin G procaine (Rx)",
+        "penicillin G benzathine (Rx)",
+        "penicillin G aqueous (Rx)",
+        "penicillin VK (Rx)",
+        "penicillin G procaine (Rx)"
+    ],
+    "Penicillins, Penicillinase-Resistant": [
+        "oxacillin (Rx)",
+        "dicloxacillin (Rx)",
+        "nafcillin (Rx)"
+    ],
+    "Pleuromutilin": [
+        "retapamulin (Rx)",
+        "lefamulin (Rx)"
+    ],
+    "RSV Agents": [
+        "ribavirin (Rx)",
+        "palivizumab (Rx)"
+    ],
+    "Streptogramins": [
+        "quinupristin/dalfopristin (Rx)"
+    ],
+    "Sulfonamides": [
+        "trimethoprim/sulfamethoxazole (Rx)",
+        "erythromycin base/sulfisoxazole (Rx)",
+        "sulfadiazine (Rx)"
+    ],
+    "Tetracyclines": [
+        "tetracycline (Rx)",
+        "doxycycline (Rx)",
+        "demeclocycline (Rx)",
+        "minocycline (Rx)",
+        "eravacycline (Rx)",
+        "omadacycline (Rx)",
+        "sarecycline (Rx)"
+    ]
+}

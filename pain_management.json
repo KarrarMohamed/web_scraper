@@ -1,0 +1,189 @@
+{
+    "Analgesics, Barbiturate Combos": [
+        "butalbital/acetaminophen/caffeine (Rx)",
+        "butalbital/acetaminophen (Rx)",
+        "butalbital/aspirin/caffeine (Rx)"
+    ],
+    "Analgesics, NSAID/Opioid Combos": [
+        "celecoxib/tramadol (Pending FDA Approval)",
+        "oxycodone/ibuprofen (Rx)",
+        "oxycodone/aspirin (Rx)",
+        "hydrocodone/ibuprofen (Rx)"
+    ],
+    "Analgesics, Opioid Combos": [
+        "acetaminophen/caffeine/dihydrocodeine (Rx)",
+        "hydrocodone/acetaminophen (Rx)",
+        "benzhydrocodone/acetaminophen (Rx)",
+        "belladonna and opium (Rx)",
+        "butalbital/aspirin/caffeine/codeine (Rx)",
+        "codeine/acetaminophen (Rx)",
+        "codeine/acetaminophen/butalbital/caffeine (Rx)",
+        "codeine/aspirin/carisoprodol (Rx)",
+        "dihydrocodeine/aspirin/caffeine (Discontinued)",
+        "morphine/naltrexone (Rx)",
+        "oxycodone/acetaminophen (Rx)",
+        "pentazocine/acetaminophen (Discontinued)",
+        "pentazocine/naloxone (Rx)",
+        "tramadol/acetaminophen (Rx)"
+    ],
+    "Analgesics, Opioid Partial Agonist": [
+        "buprenorphine buccal (Rx)",
+        "buprenorphine/naloxone (Rx)",
+        "buprenorphine (Rx)",
+        "buprenorphine subdermal implant (Rx)",
+        "buprenorphine transdermal (Rx)",
+        "buprenorphine, long-acting injection (Rx)",
+        "buprenorphine/samidorphan (Pending FDA Approval)",
+        "butorphanol (Rx)",
+        "morphine/naltrexone (Rx)",
+        "pentazocine/acetaminophen (Discontinued)",
+        "pentazocine/naloxone (Rx)"
+    ],
+    "Analgesics, Other": [
+        "acetaminophen rectal (OTC)",
+        "acetaminophen (OTC)",
+        "acetaminophen IV (Rx)",
+        "pregabalin (Rx)",
+        "milnacipran (Rx)",
+        "ziconotide (Rx)"
+    ],
+    "Analgesics, Other Combos": [
+        "acetaminophen/phenyltoloxamine (OTC)",
+        "acetaminophen/aspirin (OTC)",
+        "acetaminophen/aspirin/caffeine (OTC)",
+        "acetaminophen/aspirin/diphenhydramine (OTC)",
+        "acetaminophen/caffeine (OTC)",
+        "acetaminophen/caffeine/isometheptene (Rx)",
+        "acetaminophen/caffeine/pyrilamine (OTC)",
+        "acetaminophen/ibuprofen (OTC)",
+        "acetaminophen/magnesium salicylate/pamabrom (OTC)",
+        "acetaminophen/pamabrom (OTC)",
+        "acetaminophen/pamabrom/pyridoxine (OTC)",
+        "acetaminophen/pamabrom/pyrilamine (OTC)",
+        "methylsalicylate/menthol/camphor topical (OTC)",
+        "naproxen/diphenhydramine (OTC)",
+        "aspirin/caffeine (OTC)",
+        "diclofenac/misoprostol (Rx)",
+        "isometheptene/dichloralphenazone/acetaminophen (Rx)",
+        "orphenadrine/aspirin/caffeine (Rx)"
+    ],
+    "Analgesics, Topical": [
+        "methylsalicylate/menthol/camphor topical (OTC)",
+        "methylsalicylate/menthol topical (OTC)",
+        "trolamine salicylate (OTC)",
+        "menthol topical (OTC)",
+        "capsaicin topical (OTC)",
+        "capsaicin transdermal (Rx, OTC)",
+        "capsaicin/menthol topical (OTC)"
+    ],
+    "Analgesics, Urinary": [
+        "phenazopyridine (Rx, OTC)",
+        "pentosan polysulfate sodium (Rx)"
+    ],
+    "Anti-inflammatory, Topicals": [],
+    "Intra-Articular Agents": [
+        "sodium hyaluronate (Rx)",
+        "hyaluronic acid and derivatives (Rx)"
+    ],
+    "Kappa Opioid Receptor Agonists": [
+        "difelikefalin (Pending FDA Approval)"
+    ],
+    "Nerve Growth Factor Inhibitors": [
+        "tanezumab (Pending FDA Approval)"
+    ],
+    "NSAIDs": [
+        "aspirin (Rx, OTC)",
+        "ibuprofen (Rx, OTC)",
+        "diphenhydramine/ibuprofen (OTC)",
+        "naproxen (Rx, OTC)",
+        "amlodipine/celecoxib (Rx)",
+        "meloxicam (Rx)",
+        "flurbiprofen (Rx)",
+        "aspirin rectal (OTC)",
+        "bupivacaine/meloxicam (Rx)",
+        "ibuprofen IV (Rx)",
+        "diclofenac (Rx)",
+        "celecoxib (Rx)",
+        "choline magnesium trisalicylate (Rx)",
+        "sulindac (Rx)",
+        "oxaprozin (Rx)",
+        "diflunisal (Rx)",
+        "ibuprofen/famotidine (Rx)",
+        "etodolac (Rx)",
+        "piroxicam (Rx)",
+        "fenoprofen (Rx)",
+        "indomethacin (Rx)",
+        "ketoprofen (Rx, OTC)",
+        "ketorolac (Rx)",
+        "ketorolac intranasal (Rx)",
+        "meclofenamate (Rx)",
+        "mefenamic acid (Rx)",
+        "nabumetone (Rx)",
+        "naproxen/sumatriptan (Rx)",
+        "salsalate (Rx)",
+        "tolmetin (Rx)",
+        "etoricoxib"
+    ],
+    "Opioid Agonists": [
+        "oliceridine (Rx)"
+    ],
+    "Opioid Analgesics": [
+        "fentanyl transmucosal (Rx)",
+        "morphine (Rx)",
+        "buprenorphine (Rx)",
+        "buprenorphine transdermal (Rx)",
+        "butorphanol (Rx)",
+        "codeine (Rx)",
+        "tramadol (Rx)",
+        "meperidine (Rx)",
+        "hydromorphone (Rx)",
+        "methadone (Rx)",
+        "sufentanil SL (Rx)",
+        "fentanyl transdermal (Rx)",
+        "fentanyl (Rx)",
+        "fentanyl intranasal (Rx)",
+        "hydrocodone (Rx)",
+        "levorphanol (Rx)",
+        "loxicodegol (Pending FDA Approval)",
+        "nalbuphine (Rx)",
+        "tapentadol (Rx)",
+        "oliceridine (Rx)",
+        "oxymorphone (Rx)",
+        "oxycodone (Rx)",
+        "oxycodone/naloxone (Rx)",
+        "oxycodone/naltrexone (Discontinued)",
+        "paregoric (Rx)",
+        "remifentanil (Rx)",
+        "sufentanil (Rx)"
+    ],
+    "Opioids, Anilidopiperidine": [
+        "fentanyl transmucosal (Rx)",
+        "alfentanil (Rx)"
+    ],
+    "Pain Management, Other": [
+        "esomeprazole/naproxen (Rx)"
+    ],
+    "Peripherally-Acting Mu-Opioid Receptor Antagonists (PAMORA)": [
+        "alvimopan (Rx)",
+        "methylnaltrexone (Rx)",
+        "naloxegol (Rx)",
+        "naldemedine (Rx)"
+    ],
+    "Salicylates": [
+        "aspirin (Rx, OTC)",
+        "magnesium salicylate (OTC)",
+        "salsalate (Rx)"
+    ],
+    "Skeletal Muscle Relaxants": [
+        "cyclobenzaprine (Rx)",
+        "arbaclofen (Pending FDA Approval)",
+        "baclofen (Rx)",
+        "carisoprodol (Rx)",
+        "chlorzoxazone (Rx)",
+        "dantrolene (Rx)",
+        "diazepam (Rx)",
+        "metaxalone (Rx)",
+        "methocarbamol (Rx)",
+        "orphenadrine (Rx)"
+    ]
+}

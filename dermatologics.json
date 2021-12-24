@@ -1,0 +1,315 @@
+{
+    "Acne Agents, Systemic": [
+        "isotretinoin (Rx)",
+        "drospirenone/ethinyl estradiol/levomefolate (Rx)",
+        "drospirenone/ethinyl estradiol (Rx)",
+        "sarecycline (Rx)"
+    ],
+    "Acne Agents, Topical": [
+        "resorcinol/sulfur (OTC)",
+        "dapsone topical (Rx)",
+        "adapalene (Rx, OTC)",
+        "trifarotene (Rx)",
+        "erythromycin topical (Rx)",
+        "alpha hydroxy acids, topical (Rx, OTC)",
+        "tretinoin topical (Rx)",
+        "minocycline topical (Rx)",
+        "sulfur topical (OTC)",
+        "tazarotene (Rx)",
+        "azelaic acid (Rx)",
+        "benzoyl peroxide (Rx, OTC)",
+        "salicylic acid acne (OTC)",
+        "benzoyl peroxide/hydrocortisone (Rx)",
+        "brimonidine topical (Rx)",
+        "clindamycin topical (Rx)",
+        "ivermectin topical (Rx, OTC)",
+        "sulfacetamide topical (Rx)"
+    ],
+    "Acne Agents, Topical Combos": [
+        "benzoyl peroxide/clindamycin topical (Rx)",
+        "adapalene/benzoyl peroxide (Rx)",
+        "erythromycin topical/benzoyl peroxide (Rx)",
+        "sodium sulfacetamide/sulfur (Rx)",
+        "benzoyl peroxide/tretinoin topical (Pending FDA Approval)",
+        "clindamycin topical/tretinoin topical (Rx)"
+    ],
+    "Aesthetic Surgery Products": [
+        "azficel-T (Rx)",
+        "hyaluronic acid, non-animal stabilized (Rx)",
+        "calcium hydroxylapatite (Rx)",
+        "deoxycholic acid (Rx)",
+        "poly-L-lactic acid/carboxymethylcellulose/mannitol (Rx)"
+    ],
+    "Alpha Agonists, Topical": [
+        "brimonidine topical (Rx)",
+        "oxymetazoline topical (Rx)"
+    ],
+    "Alpha-Melanocyte Stimulating Hormone Analogs": [
+        "afamelanotide (Rx)"
+    ],
+    "Antibacterials, Topical": [
+        "erythromycin topical (Rx)",
+        "retapamulin (Rx)",
+        "bacitracin topical (OTC)",
+        "bacitracin and lidocaine topical (OTC)",
+        "mupirocin (Rx)",
+        "hydrocortisone/neomycin/polymyxin topical (Rx)",
+        "polymyxin B/bacitracin topical (OTC)",
+        "gentamicin topical (Rx)",
+        "neomycin/polymyxin B/ bacitracin/lidocaine (OTC)",
+        "mafenide (Rx)",
+        "metronidazole topical (Rx)",
+        "neomycin/polymyxin B/ bacitracin/pramoxine (OTC)",
+        "neomycin/polymyxin B/bacitracin topical (OTC)",
+        "ozenoxacin topical (Rx)",
+        "silver sulfadiazine (Rx)"
+    ],
+    "Anticholinergics, Topical": [
+        "glycopyrronium tosylate topical (Rx)"
+    ],
+    "Antifungal/Corticosteroid Topicals": [
+        "clotrimazole/betamethasone (Rx)",
+        "triamcinolone acetonide injectable suspension/nystatin (Rx)"
+    ],
+    "Antifungals, Topical": [
+        "methoxsalen (Rx)",
+        "tolnaftate (Rx)",
+        "undecylenic acid & derivatives (OTC)",
+        "butenafine (Rx, OTC)",
+        "miconazole topical (Rx, OTC)",
+        "ciclopirox (Rx)",
+        "clotrimazole topical (Rx, OTC)",
+        "econazole topical (Rx)",
+        "efinaconazole (Rx)",
+        "sertaconazole (Rx)",
+        "sulconazole (Rx)",
+        "ketoconazole topical (Rx)",
+        "tavaborole (Rx)",
+        "terbinafine topical (OTC)",
+        "luliconazole (Rx)",
+        "miconazole/petrolatum/zinc oxide topical (Rx)",
+        "nystatin topical (Rx)",
+        "naftifine (Rx)",
+        "oxiconazole (Rx)"
+    ],
+    "Antipruritics/Non-corticosteroid Topical": [
+        "oatmeal, colloidal topical (Rx)",
+        "pramoxine topical (OTC)",
+        "pramoxine vaginal (OTC)",
+        "diphenhydramine topical (OTC)",
+        "crotamiton (Rx)",
+        "pramoxine (OTC)",
+        "pramoxine/menthol/petrolatum topical (OTC)"
+    ],
+    "Antipsoriatics, Systemic": [
+        "methoxsalen (Rx)",
+        "adalimumab (Rx)",
+        "acitretin (Rx)",
+        "alefacept (Discontinued)",
+        "infliximab (Rx)",
+        "brodalumab (Rx)",
+        "etanercept (Rx)",
+        "golimumab (Rx)",
+        "guselkumab (Rx)",
+        "risankizumab (Rx)",
+        "ustekinumab (Rx)"
+    ],
+    "Antipsoriatics, Topical": [
+        "methoxsalen (Rx)",
+        "tazarotene (Rx)",
+        "sodium sulfacetamide/sulfur (Rx)",
+        "calcipotriene (Rx)",
+        "calcipotriene/betamethasone (Rx)",
+        "calcitriol topical (Rx)",
+        "halobetasol topical/tazarotene (Rx)"
+    ],
+    "Antiseborrheic Agents, Topical": [
+        "sodium sulfacetamide/sulfur (Rx)",
+        "salicylic acid/sulfur shampoo (OTC)"
+    ],
+    "Antiseptics, Topical": [
+        "ethyl alcohol intranasal (OTC)",
+        "iodine (OTC)"
+    ],
+    "Antivirals, Topical": [
+        "docosanol cream (OTC)",
+        "acyclovir topical (Rx)",
+        "penciclovir (Rx)"
+    ],
+    "Astringents": [
+        "aluminum acetate solution (OTC)",
+        "aluminum chloride topical (OTC)",
+        "formaldehyde topical (Rx)"
+    ],
+    "Corticosteroids, Topical": [
+        "alclometasone topical (Rx)",
+        "hydrocortisone topical (Rx, OTC)",
+        "hydrocortisone/iodoquinol (Rx)",
+        "betamethasone topical (Rx)",
+        "amcinonide (Rx)",
+        "lidocaine/hydrocortisone (Rx)",
+        "hydrocortisone topical/pramoxine topical (Rx)",
+        "diflorasone (Rx)",
+        "bacitracin/hydrocortisone/neomycin/polymyxin topical (OTC)",
+        "halobetasol topical (Rx)",
+        "fluocinolone (Rx)",
+        "urea/hydrocortisone topical (Rx)",
+        "clobetasol (Rx)",
+        "clocortolone (Rx)",
+        "flurandrenolide (Rx)",
+        "fluticasone topical (Rx)",
+        "prednicarbate (Rx)",
+        "desonide (Rx)",
+        "desoximetasone (Rx)",
+        "mometasone topical (Rx)",
+        "fluocinolone/tretinoin/hydroquinone (Rx)",
+        "fluocinonide (Rx)",
+        "halcinonide (Rx)",
+        "hydrocortisone probutate topical (Rx)",
+        "triamcinolone topical (Rx)"
+    ],
+    "Depigmenting Agents": [
+        "hydroquinone (Rx, OTC)",
+        "fluocinolone/tretinoin/hydroquinone (Rx)"
+    ],
+    "Dermatologics, JAK Inhibitors": [
+        "abrocitinib (Pending FDA Approval)",
+        "ruxolitinib topical (Pending FDA Approval)"
+    ],
+    "Dermatologics, Other": [
+        "diphenhydramine/allantoin topical (OTC)",
+        "aminolevulinic acid topical (Rx)",
+        "diphenhydramine topical (OTC)",
+        "fluorouracil topical (Rx)",
+        "collagenase clostridium histolyticum (Rx)",
+        "tirbanibulin topical (Rx)",
+        "mechlorethamine topical (Rx)",
+        "poly-ureaurethane (Rx)"
+    ],
+    "Emollients": [
+        "vitamins A & D topical (OTC)",
+        "alpha hydroxy acids, topical (Rx, OTC)",
+        "ammonium lactate (OTC)",
+        "urea (OTC)",
+        "dimethicone topical (OTC)",
+        "vitamin E topical (OTC)",
+        "petrolatum & mineral oil topical (Rx)",
+        "lactic acid topical (OTC)",
+        "lanolin (OTC)"
+    ],
+    "Immunosuppressive Agents, Topical": [
+        "pimecrolimus (Rx)",
+        "tacrolimus ointment (Rx)"
+    ],
+    "Interleukin Inhibitors": [
+        "benralizumab (Rx)",
+        "bimekizumab (Pending FDA Approval)",
+        "brodalumab (Rx)",
+        "reslizumab (Rx)",
+        "secukinumab (Rx)",
+        "dupilumab (Rx)",
+        "guselkumab (Rx)",
+        "tildrakizumab (Rx)",
+        "ixekizumab (Rx)",
+        "sarilumab (Rx)",
+        "mepolizumab (Rx)",
+        "risankizumab (Rx)",
+        "ustekinumab (Rx)",
+        "tralokinumab (Pending FDA Approval)"
+    ],
+    "Keratolytic Agents": [
+        "anthralin (Rx)",
+        "coal tar bath products (OTC)",
+        "cantharidin topical (Pending FDA Approval)",
+        "coal tar shampoo (OTC)",
+        "coal tar topical (OTC)",
+        "salicylic acid topical (Rx, OTC)",
+        "podofilox (Rx)",
+        "pyrithione zinc (OTC)",
+        "salicylic acid/coal tar shampoo (OTC)",
+        "salicylic acid/sulfur shampoo (OTC)",
+        "podophyllum resin (Rx)",
+        "trichloroacetic acid topical (Rx)"
+    ],
+    "PDE-4 Inhibitors, Topical": [
+        "crisaborole topical (Rx)"
+    ],
+    "Pediculicides, Topical": [
+        "abametapir (Rx)",
+        "permethrin (Rx, OTC)",
+        "ivermectin topical (Rx, OTC)",
+        "malathion (Rx)"
+    ],
+    "Protectants, Topical": [
+        "zinc oxide topical (OTC)",
+        "castor oil/trypsin (Rx)",
+        "cornstarch/kaolin/zinc oxide topical (OTC)",
+        "menthol topical/dimethicone topical (OTC)"
+    ],
+    "Psoralens": [
+        "methoxsalen (Rx)"
+    ],
+    "Retinoid-like Agents": [
+        "isotretinoin (Rx)",
+        "acitretin (Rx)"
+    ],
+    "Retinoid-like Agents, Topical": [
+        "trifarotene (Rx)",
+        "tazarotene (Rx)"
+    ],
+    "Scabicidal Agents": [
+        "pyrethrins/piperonyl butoxide (OTC)",
+        "permethrin (Rx, OTC)",
+        "citric acid/citronellyl acetate/isopropanol/methyl salicylate (OTC)",
+        "crotamiton (Rx)",
+        "isopropyl myristate (OTC)",
+        "ivermectin topical (Rx, OTC)",
+        "lindane (Rx)",
+        "malathion (Rx)",
+        "spinosad (Rx)"
+    ],
+    "Sulfonamides, Topical": [
+        "sulfacetamide topical (Rx)"
+    ],
+    "Topical Androgen Receptor Inhibitors": [
+        "clascoterone topical (Rx)"
+    ],
+    "Topical Antimicrobials": [
+        "acyclovir/hydrocortisone (Rx)",
+        "bacitracin/hydrocortisone/neomycin/polymyxin topical (OTC)",
+        "povidone iodine (OTC)",
+        "chlorhexidine topical (OTC)",
+        "silver nitrate (Rx)"
+    ],
+    "Topical Skin Products": [
+        "oatmeal, colloidal topical (Rx)",
+        "imiquimod (Rx)",
+        "allogeneic cellularized epithelial tissue (Pending FDA Approval)",
+        "petrolatum topical (OTC)",
+        "dexpanthenol (OTC)",
+        "diclofenac topical (Rx, OTC)",
+        "doxepin cream (Rx)",
+        "sodium sulfide topical (OTC)",
+        "eflornithine cream (Rx)",
+        "hydrogen peroxide (Rx)",
+        "pramoxine topical/menthol topical/dimethicone topical (OTC)",
+        "menthol topical/zinc oxide topical (OTC)",
+        "selenium sulfide topical (Rx, OTC)",
+        "minoxidil topical (OTC)",
+        "sinecatechins topical (Rx)"
+    ],
+    "TRPV1 Agonists, Topical": [
+        "capsaicin topical (OTC)"
+    ],
+    "Wound Care": [
+        "2-octyl cyanoacrylate (Rx)",
+        "hypochlorous acid topical (Rx)",
+        "fibrin sealant (Rx)",
+        "becaplermin (Rx)",
+        "betaine/polyhexanide (Rx, OTC)",
+        "cadexomer iodine (OTC)",
+        "collagenase (Rx)",
+        "petrolatum & mineral oil topical (Rx)",
+        "proteolytic enzymes (Pending FDA Approval)"
+    ]
+}

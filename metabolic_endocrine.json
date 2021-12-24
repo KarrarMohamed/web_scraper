@@ -1,0 +1,377 @@
+{
+    "Anabolic Steroids": [
+        "oxymetholone (Rx)",
+        "fluoxymesterone (Rx)"
+    ],
+    "Androgens": [
+        "testosterone topical (Rx)",
+        "methyltestosterone (Rx)",
+        "testosterone (Rx)",
+        "danazol (Rx)",
+        "testosterone intranasal (Rx)",
+        "oxandrolone (Rx)",
+        "testosterone buccal system (Rx)"
+    ],
+    "Antiandrogens": [
+        "darolutamide (Rx)"
+    ],
+    "Antidiabetics, Alpha-Glucosidase Inhibitors": [
+        "acarbose (Rx)",
+        "miglitol (Rx)"
+    ],
+    "Antidiabetics, Amylinomimetics": [
+        "pramlintide (Rx)"
+    ],
+    "Antidiabetics, Biguanides": [
+        "canagliflozin/metformin (Rx)",
+        "dapagliflozin/metformin (Rx)",
+        "dapagliflozin/saxagliptin/metformin (Rx)",
+        "empagliflozin/linagliptin/metformin (Rx)",
+        "empagliflozin/metformin (Rx)",
+        "ertugliflozin/metformin (Rx)",
+        "metformin (Rx)"
+    ],
+    "Antidiabetics, Biguanides/Dipeptyl Peptidase-IV Inhibitors": [
+        "alogliptin/metformin (Rx)",
+        "metformin/sitagliptin (Rx)",
+        "linagliptin/metformin (Rx)",
+        "saxagliptin/metformin (Rx)"
+    ],
+    "Antidiabetics, Biguanides/Meglitinides": [
+        "metformin/repaglinide (Rx)"
+    ],
+    "Antidiabetics, Biguanides/Thiazolidinediones": [
+        "metformin/pioglitazone (Rx)",
+        "metformin/rosiglitazone (Discontinued)"
+    ],
+    "Antidiabetics, Dipeptyl Peptidase-IV Inhibitors": [
+        "alogliptin (Rx)",
+        "alogliptin/pioglitazone (Rx)",
+        "dapagliflozin/saxagliptin (Rx)",
+        "dapagliflozin/saxagliptin/metformin (Rx)",
+        "empagliflozin/linagliptin (Rx)",
+        "empagliflozin/linagliptin/metformin (Rx)",
+        "ertugliflozin/sitagliptin (Rx)",
+        "sitagliptin (Rx)",
+        "linagliptin (Rx)",
+        "saxagliptin (Rx)"
+    ],
+    "Antidiabetics, Glucagon-like Peptide-1 Agonists": [
+        "lixisenatide (Rx)",
+        "albiglutide (Rx)",
+        "exenatide injectable suspension (Rx)",
+        "exenatide injectable solution (Rx)",
+        "dulaglutide (Rx)",
+        "exenatide subdermal implant (Pending FDA Approval)",
+        "liraglutide (Rx)",
+        "liraglutide/insulin degludec (Rx)",
+        "insulin glargine/lixisenatide (Rx)",
+        "semaglutide (Rx)"
+    ],
+    "Antidiabetics, Insulin Combos": [
+        "insulin degludec/insulin aspart (Rx)"
+    ],
+    "Antidiabetics, Insulins": [
+        "insulin lispro (Rx)",
+        "insulin inhaled (Rx)",
+        "insulin glulisine (Rx)",
+        "insulin glargine (Rx)",
+        "insulin aspart (Rx)",
+        "insulin lispro protamine/insulin lispro (Rx)",
+        "insulin isophane human/insulin regular human (OTC)",
+        "insulin NPH (OTC)",
+        "insulin regular human (Rx, OTC)",
+        "insulin aspart protamine/insulin aspart (Rx)",
+        "insulin degludec (Rx)",
+        "insulin detemir (Rx)",
+        "liraglutide/insulin degludec (Rx)"
+    ],
+    "Antidiabetics, Intermediate-Acting Insulins": [
+        "insulin NPH (OTC)"
+    ],
+    "Antidiabetics, Long-Acting Insulins": [
+        "insulin glargine (Rx)",
+        "insulin degludec (Rx)",
+        "insulin detemir (Rx)",
+        "liraglutide/insulin degludec (Rx)",
+        "insulin glargine/lixisenatide (Rx)"
+    ],
+    "Antidiabetics, Meglitinides Derivatives": [
+        "nateglinide (Rx)",
+        "repaglinide (Rx)"
+    ],
+    "Antidiabetics, Rapid-Acting Insulins": [
+        "insulin lispro (Rx)",
+        "insulin inhaled (Rx)",
+        "insulin glulisine (Rx)",
+        "insulin aspart (Rx)"
+    ],
+    "Antidiabetics, SGLT1 Inhibitors": [
+        "sotagliflozin (Pending FDA Approval)"
+    ],
+    "Antidiabetics, SGLT2 Inhibitors": [
+        "canagliflozin (Rx)",
+        "canagliflozin/metformin (Rx)",
+        "dapagliflozin (Rx)",
+        "dapagliflozin/metformin (Rx)",
+        "dapagliflozin/saxagliptin (Rx)",
+        "dapagliflozin/saxagliptin/metformin (Rx)",
+        "empagliflozin (Rx)",
+        "empagliflozin/linagliptin (Rx)",
+        "empagliflozin/linagliptin/metformin (Rx)",
+        "empagliflozin/metformin (Rx)",
+        "ertugliflozin (Rx)",
+        "ertugliflozin/metformin (Rx)",
+        "ertugliflozin/sitagliptin (Rx)"
+    ],
+    "Antidiabetics, Short-Acting Insulins": [
+        "insulin regular human (Rx, OTC)"
+    ],
+    "Antidiabetics, Sulfonylureas": [
+        "glimepiride (Rx)",
+        "chlorpropamide (Rx)",
+        "glyburide (Rx)",
+        "glipizide (Rx)",
+        "tolbutamide (Rx)",
+        "tolazamide (Rx)"
+    ],
+    "Antidiabetics, Sulfonylureas/Biguanides": [
+        "glipizide/metformin (Rx)",
+        "glyburide/metformin (Rx)"
+    ],
+    "Antidiabetics, Sulfonylureas/Thiazolidinediones": [
+        "glimepiride/rosiglitazone (Rx)",
+        "glimepiride/pioglitazone (Rx)"
+    ],
+    "Antidiabetics, Thiazolidinediones": [
+        "pioglitazone (Rx)",
+        "alogliptin/pioglitazone (Rx)",
+        "rosiglitazone (Rx)"
+    ],
+    "Antidiuretics, Hormone Analog": [
+        "vasopressin (Rx)"
+    ],
+    "Antithyroid Agents": [
+        "sodium iodide I-131 (Rx)",
+        "potassium iodide (Rx, OTC)",
+        "methimazole (Rx)",
+        "propylthiouracil (Rx)"
+    ],
+    "Bisphosphonate Derivatives": [
+        "risedronate (Rx)",
+        "alendronate (Rx)",
+        "ibandronate (Rx)",
+        "etidronate (Rx)",
+        "zoledronic acid (Rx)",
+        "tiludronate (Discontinued)"
+    ],
+    "C-Type Natriuretic Peptide": [
+        "vosoritide (Pending FDA Approval)"
+    ],
+    "Calcimimetics": [
+        "cinacalcet (Rx)"
+    ],
+    "Calcium Metabolism Modifiers": [
+        "risedronate (Rx)",
+        "alendronate (Rx)",
+        "pamidronate (Rx)",
+        "ibandronate (Rx)",
+        "calcitonin salmon (Rx)",
+        "etidronate (Rx)",
+        "zoledronic acid (Rx)",
+        "tiludronate (Discontinued)"
+    ],
+    "Calcium-Sensing Receptor Agonists": [
+        "etelcalcetide (Rx)"
+    ],
+    "Copper Chelators": [
+        "trientine (Rx)"
+    ],
+    "Corticosteroids": [
+        "methylprednisolone (Rx)",
+        "hydrocortisone (Rx)",
+        "dexamethasone (Rx)",
+        "betamethasone (Rx)",
+        "corticotropin (Rx)",
+        "cortisone (Rx)",
+        "deflazacort (Rx)",
+        "prednisone (Rx)",
+        "prednisolone (Rx)",
+        "fludrocortisone (Rx)",
+        "triamcinolone acetonide injectable suspension (Rx)",
+        "mometasone sinus implant (Rx)",
+        "triamcinolone acetonide extended-release injectable suspension (Rx)"
+    ],
+    "Cortisol Receptor Blockers": [
+        "mifepristone (Rx)"
+    ],
+    "Diagnostics, Endocrine": [
+        "corticorelin (Rx)",
+        "arginine (Rx)",
+        "secretin (Rx)",
+        "cosyntropin (Rx)",
+        "macimorelin (Rx)",
+        "metyrapone (Rx)",
+        "thyrotropin alfa (Rx)"
+    ],
+    "Endocrine, Dopamine Agonists": [
+        "fenoldopam (Rx)"
+    ],
+    "Enzyme Cofactors": [
+        "corticorelin (Rx)",
+        "sapropterin (Rx)"
+    ],
+    "Enzyme Inhibitors": [
+        "miglustat (Rx)"
+    ],
+    "Enzymes, Metabolic": [
+        "pegademase (Discontinued)",
+        "agalsidase beta (Rx)",
+        "laronidase (Rx)",
+        "alglucerase (Discontinued)",
+        "alglucosidase alfa (Rx)",
+        "asfotase alfa (Rx)",
+        "avalglucosidase alfa (Pending FDA Approval)",
+        "imiglucerase (Rx)",
+        "elapegademase (Rx)",
+        "idursulfase (Rx)",
+        "taliglucerase alfa (Rx)",
+        "elosulfase alfa (Rx)",
+        "fosdenpoterin (Rx)",
+        "galsulfase (Rx)",
+        "sebelipase alfa (Rx)",
+        "pegvaliase (Rx)",
+        "pegunigalsidase alfa (Pending FDA Approval)",
+        "sacrosidase (Rx)",
+        "uridine triacetate (Rx)",
+        "velaglucerase alfa (Rx)"
+    ],
+    "Estrogen and Androgen Combos": [
+        "estrogens esterified/methyltestosterone (Rx)"
+    ],
+    "Farnesyltransferase Inhibitors": [
+        "lonafarnib (Rx)"
+    ],
+    "Glucose-Elevating Agents": [
+        "glucagon intranasal (Rx)",
+        "dextrose (Rx)",
+        "dasiglucagon (Rx)",
+        "diazoxide (Rx)",
+        "glucagon (Rx)"
+    ],
+    "GNRH Antagonist": [
+        "relugolix/estradiol/norethindrone (Pending FDA Approval)"
+    ],
+    "Growth Hormone Analogs": [
+        "somatropin (Rx)",
+        "mecasermin (Rx)",
+        "lonapegsomatropin (Pending FDA Approval)",
+        "somapacitan (Rx)",
+        "somatrogon (Pending FDA Approval)"
+    ],
+    "Growth Hormone Releasing Factors": [
+        "arginine (Rx)",
+        "tesamorelin (Rx)"
+    ],
+    "Homocystinuria, Treatment Agents": [
+        "betaine (Rx)"
+    ],
+    "Hyperprolactinemia": [
+        "bromocriptine (Rx)",
+        "cabergoline (Rx)"
+    ],
+    "Insulinlike Growth Factor Inhibitors": [
+        "teprotumumab (Rx)"
+    ],
+    "Insulinlike Growth Factors": [
+        "mecasermin (Rx)"
+    ],
+    "Leptin Analogs": [
+        "metreleptin (Rx)"
+    ],
+    "Melanocortin Agonists": [
+        "bremelanotide (Rx)",
+        "setmelanotide (Rx)"
+    ],
+    "Metabolic & Endocrine, Other": [
+        "becaplermin (Rx)",
+        "betaine (Rx)",
+        "cerliponase alfa (Rx)",
+        "bromocriptine (Rx)",
+        "levocarnitine (Rx)",
+        "eliglustat (Rx)",
+        "cysteamine (Rx)",
+        "dextrose (Rx)",
+        "dichlorphenamide (Rx)",
+        "triheptanoin (Rx)",
+        "vestronidase alfa-vjbk (Rx)",
+        "nitisinone (Rx)",
+        "pegvisomant (Rx)"
+    ],
+    "Monoclonal Antibodies, Endocrine": [
+        "burosumab (Rx)",
+        "denosumab (Rx)",
+        "romosozumab (Rx)",
+        "teprotumumab (Rx)"
+    ],
+    "Oxytocic Agents": [
+        "oxytocin (Rx)"
+    ],
+    "Parathyroid Hormone Analogs": [
+        "abaloparatide (Rx)",
+        "teriparatide (Rx)",
+        "human parathyroid hormone, recombinant (Rx)"
+    ],
+    "PO4 Scavengers": [
+        "ferric citrate (Rx)",
+        "calcium acetate (Rx)",
+        "lanthanum carbonate (Rx)",
+        "sevelamer (Rx)",
+        "sucroferric oxyhydroxide (Rx)"
+    ],
+    "Prostaglandins, Endocrine": [
+        "carboprost tromethamine (Rx)",
+        "dinoprostone (Rx)",
+        "misoprostol (Rx)"
+    ],
+    "Regenerative Therapy": [
+        "allogeneic thymic tissue (Pending FDA Approval)"
+    ],
+    "Somatostatin Analogs": [
+        "octreotide (Rx)",
+        "lanreotide (Rx)",
+        "pasireotide (Rx)"
+    ],
+    "Steroidogenesis Inhibitors": [
+        "osilodrostat (Rx)"
+    ],
+    "Thyroid Products": [
+        "thyroid desiccated (Rx)",
+        "liothyronine (Rx)",
+        "levothyroxine (Rx)",
+        "liotrix (Rx)"
+    ],
+    "Urea Cycle Disorder Treatment Agents": [
+        "sodium benzoate/sodium phenylacetate (Rx)",
+        "sodium phenylbutyrate (Rx)",
+        "calcium acetate (Rx)",
+        "carglumic acid (Rx)",
+        "glycerol phenylbutyrate (Rx)"
+    ],
+    "Vasopressin Antagonists": [
+        "tolvaptan (Rx)"
+    ],
+    "Vasopressin-Related": [
+        "vasopressin (Rx)",
+        "conivaptan (Rx)",
+        "desmopressin (Rx)",
+        "tolvaptan (Rx)",
+        "terlipressin (Pending FDA Approval)"
+    ],
+    "Vitamin D Analogs": [
+        "calcifediol (Rx)",
+        "calcitriol (Rx)",
+        "doxercalciferol (Rx)",
+        "paricalcitol (Rx)"
+    ]
+}

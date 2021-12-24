@@ -1,0 +1,404 @@
+{
+    "ACE Inhibitors": [
+        "quinapril (Rx)",
+        "perindopril (Rx)",
+        "ramipril (Rx)",
+        "benazepril (Rx)",
+        "captopril (Rx)",
+        "enalapril (Rx)",
+        "fosinopril (Rx)",
+        "lisinopril (Rx)",
+        "trandolapril (Rx)",
+        "moexipril (Rx)"
+    ],
+    "ACEI/CCB Combos": [
+        "benazepril/amlodipine (Rx)",
+        "perindopril/amlodipine (Rx)",
+        "trandolapril/verapamil (Rx)"
+    ],
+    "ACEI/Diuretic Combos": [
+        "quinapril/hydrochlorothiazide (Rx)",
+        "benazepril/hydrochlorothiazide (Rx)",
+        "captopril/hydrochlorothiazide (Rx)",
+        "enalapril/hydrochlorothiazide (Rx)",
+        "fosinopril/hydrochlorothiazide (Rx)",
+        "lisinopril/hydrochlorothiazide (Rx)",
+        "moexipril/hydrochlorothiazide (Rx)"
+    ],
+    "ACEI/HCTZ Combos": [
+        "quinapril/hydrochlorothiazide (Rx)",
+        "benazepril/hydrochlorothiazide (Rx)",
+        "captopril/hydrochlorothiazide (Rx)",
+        "enalapril/hydrochlorothiazide (Rx)",
+        "fosinopril/hydrochlorothiazide (Rx)",
+        "lisinopril/hydrochlorothiazide (Rx)",
+        "moexipril/hydrochlorothiazide (Rx)"
+    ],
+    "Aldosterone Antagonists, Selective": [
+        "spironolactone (Rx)",
+        "eplerenone (Rx)",
+        "finerenone (Pending FDA Approval)"
+    ],
+    "Alpha Blockers, Antihypertensives": [
+        "phenoxybenzamine (Rx)",
+        "terazosin (Rx)",
+        "prazosin (Rx)",
+        "phentolamine (Rx)"
+    ],
+    "Alpha2 Agonists, Central-Acting": [
+        "methyldopa (Rx)",
+        "clonidine (Rx)"
+    ],
+    "Angiotensin Receptor-Neprilysin Inhibitors (ARNi)": [
+        "sacubitril/valsartan (Rx)"
+    ],
+    "Antianginal Agents": [
+        "aliskiren/amlodipine (Discontinued)",
+        "aliskiren/amlodipine/hydrochlorothiazide (Rx)",
+        "amlodipine (Rx)",
+        "amyl nitrite (Rx)",
+        "nitroglycerin transdermal (Rx)",
+        "nitroglycerin translingual (Rx)",
+        "propranolol (Rx)",
+        "telmisartan/amlodipine (Rx)"
+    ],
+    "Antianginal, Non-nitrates": [
+        "ranolazine (Rx)"
+    ],
+    "Anticoagulants, Cardiovascular": [
+        "argatroban (Rx)",
+        "bivalirudin (Rx)",
+        "apixaban (Rx)",
+        "warfarin (Rx)",
+        "dabigatran (Rx)",
+        "dalteparin (Rx)",
+        "enoxaparin (Rx)",
+        "heparin (Rx)",
+        "rivaroxaban (Rx)"
+    ],
+    "Antidysrhythmics, Ia": [
+        "disopyramide (Rx)",
+        "procainamide (Rx)",
+        "quinidine (Rx)"
+    ],
+    "Antidysrhythmics, Ib": [
+        "phenytoin (Rx)",
+        "lidocaine (Rx)",
+        "mexiletine (Rx)"
+    ],
+    "Antidysrhythmics, Ic": [
+        "flecainide (Rx)",
+        "propafenone (Rx)"
+    ],
+    "Antidysrhythmics, II": [
+        "acebutolol (Rx)",
+        "sotalol (Rx)",
+        "esmolol (Rx)",
+        "propranolol (Rx)"
+    ],
+    "Antidysrhythmics, III": [
+        "amiodarone (Rx)",
+        "sotalol (Rx)",
+        "bretylium (Rx)",
+        "vernakalant (Pending FDA Approval)",
+        "ibutilide (Rx)",
+        "dofetilide (Rx)",
+        "dronedarone (Rx)"
+    ],
+    "Antidysrhythmics, IV": [
+        "verapamil (Rx)",
+        "diltiazem (Rx)"
+    ],
+    "Antidysrhythmics, V": [
+        "adenosine (Rx)",
+        "digoxin (Rx)",
+        "magnesium sulfate (Rx)"
+    ],
+    "Antihypertensive Combos, Other": [
+        "azilsartan/chlorthalidone (Rx)",
+        "benazepril/amlodipine (Rx)",
+        "trandolapril/verapamil (Rx)"
+    ],
+    "Antihypertensives, Other": [
+        "mecamylamine (Rx)",
+        "reserpine (Rx)"
+    ],
+    "Antiplatelet Agents, Cardiovascular": [
+        "abciximab (Rx)",
+        "aspirin (Rx, OTC)",
+        "tirofiban (Rx)",
+        "aspirin/omeprazole (Rx)",
+        "ticagrelor (Rx)",
+        "cangrelor (Rx)",
+        "clopidogrel (Rx)",
+        "dipyridamole (Rx)",
+        "prasugrel (Rx)",
+        "eptifibatide (Rx)",
+        "ticlopidine (Discontinued)",
+        "vorapaxar (Rx)"
+    ],
+    "ARB/CCB Combos": [
+        "amlodipine/olmesartan (Rx)",
+        "valsartan/amlodipine (Rx)",
+        "telmisartan/amlodipine (Rx)"
+    ],
+    "ARB/CCB/Diuretic Combos": [
+        "valsartan/amlodipine/hydrochlorothiazide (Rx)",
+        "olmesartan/amlodipine/hydrochlorothiazide (Rx)"
+    ],
+    "ARB/Diuretic Combos": [
+        "azilsartan/chlorthalidone (Rx)"
+    ],
+    "ARB/HCTZ Combos": [
+        "candesartan/hydrochlorothiazide (Rx)",
+        "irbesartan/hydrochlorothiazide (Rx)",
+        "olmesartan/hydrochlorothiazide (Rx)",
+        "valsartan/hydrochlorothiazide (Rx)",
+        "eprosartan/hydrochlorothiazide (Rx)",
+        "losartan/hydrochlorothiazide (Rx)",
+        "telmisartan/hydrochlorothiazide (Rx)"
+    ],
+    "ARB/Renin Inhibitor Combos": [],
+    "ARBs": [
+        "candesartan (Rx)",
+        "irbesartan (Rx)",
+        "azilsartan (Rx)",
+        "olmesartan (Rx)",
+        "nebivolol/valsartan (Rx)",
+        "losartan (Rx)",
+        "valsartan (Rx)",
+        "sacubitril/valsartan (Rx)",
+        "eprosartan (Rx)",
+        "telmisartan (Rx)"
+    ],
+    "Beta-Blocker/Thiazide Diuretic Combos": [
+        "nadolol/bendroflumethiazide (Rx)"
+    ],
+    "Beta-Blockers, Alpha Activity": [
+        "carvedilol (Rx)",
+        "labetalol (Rx)"
+    ],
+    "Beta-Blockers, Beta-1 Selective": [
+        "atenolol (Rx)",
+        "betaxolol (Rx)",
+        "bisoprolol (Rx)",
+        "esmolol (Rx)",
+        "nebivolol (Rx)",
+        "nebivolol/valsartan (Rx)",
+        "celiprolol (Pending FDA Approval)",
+        "metoprolol (Rx)"
+    ],
+    "Beta-Blockers, Intrinsic Sympathomimetic": [
+        "acebutolol (Rx)",
+        "pindolol (Rx)"
+    ],
+    "Beta-Blockers, Nonselective": [
+        "sotalol (Rx)",
+        "timolol (Rx)",
+        "nadolol (Rx)",
+        "propranolol (Rx)",
+        "penbutolol (Discontinued)"
+    ],
+    "Bile Acid Sequestrants": [
+        "cholestyramine (Rx)",
+        "colesevelam (Rx)",
+        "colestipol (Rx)"
+    ],
+    "Calcium Channel Blockers": [
+        "nifedipine (Rx)",
+        "amlodipine/atorvastatin (Rx)",
+        "amlodipine/celecoxib (Rx)",
+        "felodipine (Rx)",
+        "verapamil (Rx)",
+        "nicardipine (Rx)",
+        "diltiazem (Rx)",
+        "clevidipine (Rx)",
+        "isradipine (Rx)",
+        "nimodipine (Rx)",
+        "nisoldipine (Rx)"
+    ],
+    "Calcium Channel Blockers, Dihydropyridine": [
+        "nifedipine (Rx)",
+        "aliskiren/amlodipine (Discontinued)",
+        "aliskiren/amlodipine/hydrochlorothiazide (Rx)",
+        "amlodipine (Rx)",
+        "amlodipine/atorvastatin (Rx)",
+        "benazepril/amlodipine (Rx)",
+        "felodipine (Rx)",
+        "nicardipine (Rx)",
+        "clevidipine (Rx)",
+        "levamlodipine (Rx)",
+        "isradipine (Rx)",
+        "nimodipine (Rx)",
+        "nisoldipine (Rx)",
+        "telmisartan/amlodipine (Rx)"
+    ],
+    "Calcium Channel Blockers, Non-dihydropyridine": [
+        "verapamil (Rx)",
+        "diltiazem (Rx)"
+    ],
+    "Cardiovascular, Other": [
+        "tafamidis (Rx)",
+        "tafamidis meglumine (Rx)"
+    ],
+    "CCB/Renin Inhibitor Combos": [
+        "aliskiren/amlodipine (Discontinued)"
+    ],
+    "CCB/Renin Inhibitor/HCTZ Combos": [
+        "aliskiren/amlodipine/hydrochlorothiazide (Rx)"
+    ],
+    "Diuretics, Loop": [
+        "bumetanide (Rx)",
+        "torsemide (Rx)",
+        "ethacrynic acid (Rx)",
+        "furosemide (Rx)"
+    ],
+    "Diuretics, Other": [
+        "indapamide (Rx)",
+        "metolazone (Rx)"
+    ],
+    "Diuretics, Potassium-Sparing": [
+        "spironolactone (Rx)",
+        "amiloride (Rx)",
+        "triamterene (Rx)"
+    ],
+    "Diuretics, Thiazide": [
+        "chlorothiazide (Rx)",
+        "chlorthalidone (Rx)",
+        "hydrochlorothiazide (Rx)",
+        "methyclothiazide (Rx)"
+    ],
+    "Factor Xa Inhibitors": [
+        "apixaban (Rx)",
+        "fondaparinux (Rx)",
+        "betrixaban (Rx)",
+        "edoxaban (Rx)",
+        "rivaroxaban (Rx)"
+    ],
+    "Fibric Acid Agents": [
+        "fenofibrate micronized (Rx)",
+        "fenofibrate (Rx)",
+        "fenofibric acid (Rx)",
+        "gemfibrozil (Rx)"
+    ],
+    "Glycoprotein IIb/IIIa Inhibitors": [
+        "abciximab (Rx)",
+        "tirofiban (Rx)",
+        "eptifibatide (Rx)"
+    ],
+    "HMG-CoA Reductase Inhibitors": [
+        "lovastatin (Rx)",
+        "amlodipine/atorvastatin (Rx)",
+        "atorvastatin (Rx)",
+        "rosuvastatin (Rx)",
+        "fluvastatin (Rx)",
+        "pitavastatin (Rx)",
+        "pravastatin (Rx)",
+        "simvastatin (Rx)",
+        "simvastatin/ezetimibe (Rx)"
+    ],
+    "I(f) Current Inhibitors": [
+        "ivabradine (Rx)"
+    ],
+    "Lipid-Lowering Agents, 2-Azetidinones": [
+        "bempedoic acid/ezetimibe (Rx)",
+        "ezetimibe (Rx)",
+        "rosuvastatin/ezetimibe (Rx)"
+    ],
+    "Lipid-Lowering Agents, ACL Inhibitors": [
+        "bempedoic acid (Rx)",
+        "bempedoic acid/ezetimibe (Rx)"
+    ],
+    "Lipid-Lowering Agents, ANGPTL Inhibitors": [
+        "evinacumab (Rx)"
+    ],
+    "Lipid-Lowering Agents, ApoB Antisense Oligonucleotides": [
+        "mipomersen (Discontinued)",
+        "volanesorsen (Pending FDA Approval)"
+    ],
+    "Lipid-Lowering Agents, MTP Inhibitors": [
+        "lomitapide (Rx)"
+    ],
+    "Lipid-Lowering Agents, Other": [
+        "omega 3 carboxylic acids (Rx)",
+        "icosapent (Rx)",
+        "omega 3 fatty acids (Rx)",
+        "niacin (Rx, OTC)"
+    ],
+    "Lipid-Lowering Agents, Statins": [
+        "lovastatin (Rx)",
+        "amlodipine/atorvastatin (Rx)",
+        "atorvastatin (Rx)",
+        "rosuvastatin (Rx)",
+        "fluvastatin (Rx)",
+        "pitavastatin (Rx)",
+        "pravastatin (Rx)",
+        "rosuvastatin/ezetimibe (Rx)",
+        "simvastatin (Rx)",
+        "simvastatin/ezetimibe (Rx)"
+    ],
+    "Natriuretic Peptides": [
+        "nesiritide (Rx)"
+    ],
+    "Neprilysin Inhibitors": [
+        "sacubitril/valsartan (Rx)"
+    ],
+    "Nitrates, Angina": [
+        "amyl nitrite (Rx)",
+        "isosorbide dinitrate/hydralazine (Rx)",
+        "nitroglycerin transdermal (Rx)",
+        "isosorbide dinitrate (Rx)",
+        "nitroglycerin IV (Rx)",
+        "nitroglycerin PO (Rx)",
+        "nitroglycerin sublingual (Rx)",
+        "nitroglycerin topical (Rx)",
+        "nitroglycerin translingual (Rx)",
+        "isosorbide mononitrate (Rx)"
+    ],
+    "Patent Ductus Arteriosus Agents": [
+        "ibuprofen (Rx, OTC)"
+    ],
+    "PCSK9 Inhibitors": [
+        "alirocumab (Rx)",
+        "evolocumab (Rx)",
+        "inclisiran (Pending FDA Approval)"
+    ],
+    "Phosphodiesterase Enzyme Inhibitors": [
+        "milrinone (Rx)",
+        "udenafil (Pending FDA Approval)"
+    ],
+    "Protease Activated Receptor-1 (PAR-1) Inhibitors": [
+        "vorapaxar (Rx)"
+    ],
+    "Renin Inhibitors": [
+        "aliskiren (Rx)"
+    ],
+    "Renin Inhibitors/Combos": [
+        "aliskiren/amlodipine (Discontinued)",
+        "aliskiren/amlodipine/hydrochlorothiazide (Rx)",
+        "hydrochlorothiazide/aliskiren (Rx)"
+    ],
+    "Thiazide Combos": [
+        "spironolactone/hydrochlorothiazide (Rx)",
+        "amiloride/hydrochlorothiazide (Rx)",
+        "atenolol/chlorthalidone (Rx)",
+        "bisoprolol/hydrochlorothiazide (Rx)",
+        "clonidine/chlorthalidone (Rx)",
+        "nadolol/bendroflumethiazide (Rx)",
+        "metoprolol/hydrochlorothiazide (Rx)",
+        "triamterene/hydrochlorothiazide (Rx)",
+        "hydralazine/hydrochlorothiazide (Rx)",
+        "propranolol/hydrochlorothiazide (Rx)",
+        "methyldopa/hydrochlorothiazide (Rx)",
+        "telmisartan/hydrochlorothiazide (Rx)"
+    ],
+    "Thrombin Inhibitors": [
+        "argatroban (Rx)",
+        "dabigatran (Rx)",
+        "desirudin (Discontinued)",
+        "vorapaxar (Rx)"
+    ],
+    "Tyrosine Hydroxylase Inhibitors": [
+        "metyrosine (Rx)"
+    ]
+}

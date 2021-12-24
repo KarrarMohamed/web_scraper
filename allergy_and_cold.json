@@ -1,0 +1,227 @@
+{
+    "Allergen Immunotherapy": [
+        "ragweed allergen extract (Rx)",
+        "grass pollens allergen extract (Rx)",
+        "Timothy grass pollen allergen extract (Rx)",
+        "house dust mite immunotherapy (Rx)",
+        "peanut oral allergen powder (Rx)",
+        "peanut immunotherapy epicutaneous (Pending FDA Approval)"
+    ],
+    "Allergy, Intranasal": [
+        "azelastine (Rx)",
+        "ipratropium intranasal (Rx)",
+        "azelastine/fluticasone intranasal (Rx)",
+        "cromolyn sodium, intranasal (OTC)",
+        "olopatadine intranasal (Rx)",
+        "olopatadine intranasal/mometasone, intranasal (Pending FDA Approval)"
+    ],
+    "Analgesic/Antihistamine/Antitussive Combos": [
+        "acetaminophen/chlorpheniramine/dextromethorphan (OTC)",
+        "acetaminophen/diphenhydramine/dextromethorphan (OTC)",
+        "aspirin/chlorpheniramine/dextromethorphan (OTC)"
+    ],
+    "Analgesic/Antihistamine/Antitussive/Decongestant Combos": [
+        "acetaminophen/chlorpheniramine/dextromethorphan/phenylephrine (OTC)",
+        "acetaminophen/doxylamine/dextromethorphan/phenylephrine (OTC)",
+        "aspirin/chlorpheniramine/dextromethorphan/phenylephrine (OTC)"
+    ],
+    "Analgesic/Antitussive/Decongestant/Expectorant Combos": [
+        "acetaminophen/dextromethorphan/phenylephrine/guaifenesin (OTC)",
+        "acetaminophen/dextromethorphan/pseudoephedrine/guaifenesin (OTC)"
+    ],
+    "Analgesic/Decongestant Combos": [
+        "acetaminophen/dextromethorphan/phenylephrine (OTC)",
+        "acetaminophen/dextromethorphan/pseudoephedrine (OTC)",
+        "acetaminophen/phenylephrine (OTC)",
+        "acetaminophen/pseudoephedrine (OTC)",
+        "ibuprofen/pseudoephedrine (OTC)",
+        "ibuprofen/phenylephrine (OTC)",
+        "naproxen/pseudoephedrine (OTC)"
+    ],
+    "Analgesic/Decongestant/Expectorant Combos": [
+        "acetaminophen/phenylephrine/guaifenesin (OTC)",
+        "acetaminophen/pseudoephedrine/guaifenesin (OTC)"
+    ],
+    "Analgesic/Expectorant Combos": [
+        "acetaminophen/guaifenesin (OTC)"
+    ],
+    "Antihistamine/Antitussive Combos": [
+        "chlorpheniramine/dextromethorphan (OTC)"
+    ],
+    "Antihistamine/Antitussive/Decongestant Combos": [
+        "brompheniramine/dextromethorphan/pseudoephedrine (Rx, OTC)",
+        "brompheniramine/dextromethorphan/phenylephrine (OTC)",
+        "chlorpheniramine/dextromethorphan/pseudoephedrine (OTC)"
+    ],
+    "Antihistamine/Decongestant Combos": [
+        "chlorpheniramine/pseudoephedrine (OTC)",
+        "acrivastine/pseudoephedrine (Rx)",
+        "chlorpheniramine/phenylephrine (OTC)",
+        "pseudoephedrine/loratadine (OTC)",
+        "pseudoephedrine/fexofenadine (OTC)",
+        "brompheniramine/pseudoephedrine (Rx)",
+        "brompheniramine/phenylephrine (Rx)",
+        "cetirizine/pseudoephedrine (OTC)",
+        "diphenhydramine/phenylephrine (OTC)",
+        "pseudoephedrine/desloratadine (Rx)"
+    ],
+    "Antihistamine/Decongestant/Analgesic Combos": [
+        "acetaminophen/chlorpheniramine/phenylephrine (OTC)",
+        "acetaminophen/diphenhydramine/phenylephrine (OTC)",
+        "acetaminophen/doxylamine/phenylephrine (OTC)",
+        "ibuprofen/chlorpheniramine/pseudoephedrine (OTC)",
+        "aspirin/chlorpheniramine/phenylephrine (OTC)"
+    ],
+    "Antihistamines, 1st Generation": [
+        "diphenhydramine (Rx, OTC)",
+        "brompheniramine (Rx, OTC)",
+        "carbinoxamine (Rx)",
+        "chlorpheniramine (OTC)",
+        "clemastine (Rx, OTC)",
+        "cyproheptadine (Rx)",
+        "dexchlorpheniramine (Rx)",
+        "dimenhydrinate (Rx, OTC)",
+        "triprolidine (OTC)",
+        "hydroxyzine (Rx)",
+        "promethazine (Rx)"
+    ],
+    "Antihistamines, 2nd Generation": [
+        "loratadine (OTC)",
+        "fexofenadine (OTC)",
+        "cetirizine (Rx, OTC)",
+        "desloratadine (Rx)",
+        "levocetirizine (OTC)"
+    ],
+    "Antihistamines, Alkylamine Derivatives": [
+        "acetaminophen/chlorpheniramine (OTC)",
+        "chlorpheniramine/dextromethorphan/phenylephrine (OTC)"
+    ],
+    "Antihistamines, Ethanolamine Derivatives": [
+        "diphenhydramine topical (OTC)",
+        "doxylamine (OTC)"
+    ],
+    "Antihistamines, Intranasal": [
+        "azelastine (Rx)",
+        "olopatadine intranasal (Rx)",
+        "olopatadine intranasal/mometasone, intranasal (Pending FDA Approval)"
+    ],
+    "Antihistamines, Piperazine Derivatives": [
+        "hydroxyzine (Rx)"
+    ],
+    "Antitussive/Decongestant/Expectorant Combos": [
+        "dextromethorphan/phenylephrine/guaifenesin (OTC)",
+        "dextromethorphan/pseudoephedrine/guaifenesin (OTC)"
+    ],
+    "Antitussives": [
+        "dextromethorphan (OTC)",
+        "benzonatate (Rx)",
+        "codeine (Rx)"
+    ],
+    "Antitussives, Narcotic": [
+        "codeine (Rx)"
+    ],
+    "Antitussives, Narcotic Combos": [
+        "codeine/guaifenesin (Rx)",
+        "codeine/guaifenesin/pseudoephedrine (Rx)",
+        "chlorpheniramine/hydrocodone (Rx)",
+        "codeine/chlorpheniramine (Rx)",
+        "codeine/chlorpheniramine/phenylephrine (Rx)",
+        "codeine/chlorpheniramine/pseudoephedrine (Rx)",
+        "codeine/pseudoephedrine (Rx)",
+        "codeine/triprolidine/pseudoephedrine (Rx)",
+        "hydrocodone/guaifenesin (Rx)",
+        "hydrocodone/pseudoephedrine/guaifenesin (Rx)",
+        "hydrocodone/chlorpheniramine/pseudoephedrine (Rx)",
+        "hydrocodone/homatropine (Rx)",
+        "hydrocodone/pseudoephedrine (Rx)",
+        "promethazine/codeine/phenylephrine (Rx)",
+        "promethazine/codeine (Rx)"
+    ],
+    "Antitussives, Non-narcotic": [
+        "acetaminophen/chlorpheniramine/dextromethorphan (OTC)"
+    ],
+    "Antitussives, Non-narcotic Combos": [
+        "acetaminophen/chlorpheniramine/dextromethorphan (OTC)",
+        "acetaminophen/doxylamine/dextromethorphan (OTC)",
+        "acetaminophen/pheniramine/phenylephrine (OTC)",
+        "aspirin/doxylamine/dextromethorphan/phenylephrine (OTC)",
+        "aspirin/diphenhydramine (OTC)",
+        "dextromethorphan/guaifenesin (OTC)",
+        "dextromethorphan/phenylephrine (OTC)",
+        "dextromethorphan/menthol (OTC)",
+        "doxylamine/dextromethorphan (OTC)",
+        "dyclonine/menthol (OTC)",
+        "menthol/pectin (OTC)",
+        "promethazine/dextromethorphan (Rx)"
+    ],
+    "Corticosteroids, Intranasal": [
+        "azelastine/fluticasone intranasal (Rx)",
+        "beclomethasone, intranasal (Rx)",
+        "budesonide intranasal (Rx, OTC)",
+        "fluticasone intranasal (Rx, OTC)",
+        "ciclesonide intranasal (Rx)",
+        "flunisolide intranasal (Rx)",
+        "mometasone, intranasal (Rx)",
+        "triamcinolone, intranasal (OTC)",
+        "olopatadine intranasal/mometasone, intranasal (Pending FDA Approval)"
+    ],
+    "Cough/Cold, Non-narcotic Combos": [
+        "acetaminophen/chlorpheniramine (OTC)",
+        "acetaminophen/chlorpheniramine/dextromethorphan/phenylephrine (OTC)",
+        "acetaminophen/dextromethorphan (OTC)",
+        "acetaminophen/dextromethorphan/phenylephrine (OTC)",
+        "acetaminophen/dextromethorphan/phenylephrine/guaifenesin (OTC)",
+        "acetaminophen/dextromethorphan/pseudoephedrine (OTC)",
+        "acetaminophen/dextromethorphan/pseudoephedrine/guaifenesin (OTC)",
+        "acetaminophen/diphenhydramine (OTC)",
+        "acetaminophen/diphenhydramine/dextromethorphan (OTC)",
+        "acetaminophen/doxylamine/dextromethorphan (OTC)",
+        "acetaminophen/doxylamine/dextromethorphan/phenylephrine (OTC)",
+        "acetaminophen/doxylamine/dextromethorphan/pseudoephedrine (OTC)",
+        "aspirin/chlorpheniramine/dextromethorphan/phenylephrine (OTC)",
+        "aspirin/chlorpheniramine/dextromethorphan (OTC)",
+        "brompheniramine/dextromethorphan/pseudoephedrine (Rx, OTC)",
+        "brompheniramine/dextromethorphan/phenylephrine (OTC)",
+        "dextromethorphan/phenylephrine/guaifenesin (OTC)",
+        "dextromethorphan/pseudoephedrine/guaifenesin (OTC)",
+        "chlorpheniramine/dextromethorphan (OTC)",
+        "chlorpheniramine/dextromethorphan/phenylephrine (OTC)",
+        "chlorpheniramine/dextromethorphan/pseudoephedrine (OTC)"
+    ],
+    "Cough/Cold, Other Combos": [
+        "acetaminophen/guaifenesin (OTC)",
+        "acetaminophen/phenylephrine (OTC)",
+        "acetaminophen/phenylephrine/guaifenesin (OTC)",
+        "acetaminophen/pseudoephedrine (OTC)",
+        "acetaminophen/pseudoephedrine/guaifenesin (OTC)",
+        "ibuprofen/pseudoephedrine (OTC)",
+        "ibuprofen/phenylephrine (OTC)",
+        "naproxen/pseudoephedrine (OTC)",
+        "guaifenesin/pseudoephedrine (OTC)",
+        "phenylephrine/guaifenesin (OTC)"
+    ],
+    "Decongestant/Expectorant Combos": [
+        "ephedrine/guaifenesin (Rx)",
+        "guaifenesin/pseudoephedrine (OTC)"
+    ],
+    "Decongestants, Intranasal": [
+        "oxymetazoline intranasal (OTC)",
+        "sodium chloride, intranasal (OTC)",
+        "propylhexedrine (OTC)",
+        "hypotonic saline, intranasal (OTC)",
+        "naphazoline (OTC)",
+        "phenylephrine nasal (OTC)",
+        "xylometazoline (OTC)"
+    ],
+    "Decongestants, Systemic": [
+        "pseudoephedrine (OTC)",
+        "phenylephrine PO (Rx, OTC)"
+    ],
+    "Expectorants": [
+        "guaifenesin (OTC)",
+        "potassium iodide (Rx, OTC)"
+    ],
+    "Mast Cell Stabilizers, Intranasal": [
+        "cromolyn sodium, intranasal (OTC)"
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "ADHD Agents": [
+        "amphetamine/dextroamphetamine (Rx)",
+        "methylphenidate (Rx)",
+        "amphetamine (Rx)",
+        "atomoxetine (Rx)",
+        "serdexmethylphenidate/methylphenidate (Rx)",
+        "clonidine (Rx)",
+        "dextroamphetamine (Rx)",
+        "dexmethylphenidate (Rx)",
+        "guanfacine (Rx)",
+        "lisdexamfetamine (Rx)",
+        "viloxazine (Rx)"
+    ],
+    "Antianxiety Agents": [
+        "alprazolam (Rx)",
+        "lorazepam (Rx)",
+        "buspirone (Rx)",
+        "chlordiazepoxide (Rx)",
+        "clonazepam (Rx)",
+        "clorazepate (Rx)",
+        "diazepam (Rx)",
+        "meprobamate (Rx)",
+        "midazolam (Rx)",
+        "oxazepam (Rx)"
+    ],
+    "Antidepressants, Alpha-2 Antagonists": [
+        "mirtazapine (Rx)"
+    ],
+    "Antidepressants, Dopamine Reuptake Inhibitors": [
+        "bupropion (Rx)",
+        "bupropion/naltrexone (Rx)"
+    ],
+    "Antidepressants, MAO Inhibitors": [
+        "isocarboxazid (Rx)",
+        "phenelzine (Rx)",
+        "tranylcypromine (Rx)"
+    ],
+    "Antidepressants, Other": [
+        "bupropion (Rx)",
+        "brexanolone (Rx)",
+        "trazodone (Rx)",
+        "esketamine intranasal (Rx)",
+        "gepirone (Pending FDA Approval)",
+        "maprotiline (Rx)",
+        "mirtazapine (Rx)",
+        "nefazodone (Rx)",
+        "vortioxetine (Rx)",
+        "vilazodone (Rx)"
+    ],
+    "Antidepressants, SNDRIs": [
+        "ansofaxine (Pending FDA Approval)"
+    ],
+    "Antidepressants, SNRIs": [
+        "duloxetine (Rx)",
+        "desvenlafaxine (Rx)",
+        "venlafaxine (Rx)",
+        "levomilnacipran (Rx)",
+        "milnacipran (Rx)"
+    ],
+    "Antidepressants, SSRI/5HT-1A Partial Agonist": [
+        "vilazodone (Rx)"
+    ],
+    "Antidepressants, SSRI/Antagonist": [
+        "nefazodone (Rx)"
+    ],
+    "Antidepressants, SSRIs": [
+        "paroxetine (Rx)",
+        "citalopram (Rx)",
+        "escitalopram (Rx)",
+        "fluoxetine (Rx)",
+        "fluvoxamine (Rx)",
+        "sertraline (Rx)"
+    ],
+    "Antidepressants, TCAs": [
+        "amitriptyline (Rx)",
+        "amoxapine (Rx)",
+        "clomipramine (Rx)",
+        "nortriptyline (Rx)",
+        "chlordiazepoxide/amitriptyline (Rx)",
+        "desipramine (Rx)",
+        "doxepin (Rx)",
+        "imipramine (Rx)",
+        "protriptyline (Rx)",
+        "trimipramine (Rx)"
+    ],
+    "Antidepressants, Tetracyclic": [
+        "maprotiline (Rx)"
+    ],
+    "Antimanic Agents": [
+        "aripiprazole (Rx)",
+        "carbamazepine (Rx)",
+        "olanzapine (Rx)",
+        "olanzapine/samidorphan (Pending FDA Approval)",
+        "risperidone (Rx)",
+        "quetiapine (Rx)"
+    ],
+    "Antipsychotics, 1st Generation": [
+        "loxapine inhaled (Rx)",
+        "fluphenazine (Rx)",
+        "haloperidol (Rx)",
+        "loxapine (Rx)",
+        "molindone (Rx)",
+        "thiothixene (Rx)",
+        "pimozide (Rx)",
+        "perphenazine (Rx)",
+        "trifluoperazine (Rx)"
+    ],
+    "Antipsychotics, 2nd Generation": [
+        "aripiprazole (Rx)",
+        "asenapine (Rx)",
+        "asenapine transdermal (Rx)",
+        "cariprazine (Rx)",
+        "clozapine (Rx)",
+        "iloperidone (Rx)",
+        "ziprasidone (Rx)",
+        "paliperidone (Rx)",
+        "lurasidone (Rx)",
+        "pimavanserin (Rx)",
+        "olanzapine (Rx)",
+        "olanzapine/samidorphan (Pending FDA Approval)",
+        "risperidone (Rx)",
+        "quetiapine (Rx)"
+    ],
+    "Antipsychotics, Phenothiazine": [
+        "chlorpromazine (Rx)",
+        "prochlorperazine (Rx)",
+        "fluphenazine (Rx)",
+        "thioridazine (Rx)",
+        "perphenazine (Rx)",
+        "trifluoperazine (Rx)"
+    ],
+    "Anxiolytics, Benzodiazepines": [
+        "alprazolam (Rx)",
+        "lorazepam (Rx)",
+        "remimazolam (Rx)",
+        "chlordiazepoxide (Rx)",
+        "chlordiazepoxide/amitriptyline (Rx)",
+        "clonazepam (Rx)",
+        "clorazepate (Rx)",
+        "diazepam (Rx)",
+        "midazolam (Rx)",
+        "oxazepam (Rx)"
+    ],
+    "Anxiolytics, Nonbenzodiazepines": [
+        "buspirone (Rx)",
+        "meprobamate (Rx)"
+    ],
+    "Appetite Stimulants": [
+        "megestrol (Rx)"
+    ],
+    "Bipolar Disorder Agents": [
+        "carbamazepine (Rx)",
+        "cariprazine (Rx)",
+        "lithium (Rx)"
+    ],
+    "Dopamine/Norepinephrine Reuptake Inhibitors": [
+        "solriamfetol (Rx)"
+    ],
+    "Melatonin Receptor Agonists": [
+        "tasimelteon (Rx)",
+        "ramelteon (Rx)"
+    ],
+    "Norepinephrine Reuptake Inhibitors, Selective": [
+        "viloxazine (Rx)"
+    ],
+    "Opioid Antagonists": [
+        "buprenorphine/naloxone (Rx)",
+        "buprenorphine/samidorphan (Pending FDA Approval)",
+        "bupropion/naltrexone (Rx)",
+        "naltrexone (Rx)",
+        "naloxone (Rx)",
+        "oxycodone/naltrexone (Discontinued)"
+    ],
+    "Orexin Antagonists": [
+        "suvorexant (Rx)",
+        "daridorexant (Pending FDA Approval)",
+        "lemborexant (Rx)"
+    ],
+    "Psychiatry Agents, Other": [
+        "acamprosate (Rx)",
+        "disulfiram (Rx)",
+        "lofexidine (Rx)"
+    ],
+    "Psychotherapeutic Combos": [
+        "amitriptyline/perphenazine (Rx)",
+        "chlordiazepoxide/amitriptyline (Rx)",
+        "fluoxetine/olanzapine (Rx)"
+    ],
+    "Sedative/Hypnotics": [
+        "diphenhydramine/ibuprofen (OTC)",
+        "zolpidem (Rx)",
+        "amobarbital (Rx)",
+        "suvorexant (Rx)",
+        "butabarbital (Rx)",
+        "chloral hydrate (Rx)",
+        "quazepam (Rx)",
+        "doxylamine (OTC)",
+        "estazolam (Rx)",
+        "eszopiclone (Rx)",
+        "flurazepam (Rx)",
+        "triazolam (Rx)",
+        "tasimelteon (Rx)",
+        "pentobarbital (Rx)",
+        "ramelteon (Rx)",
+        "temazepam (Rx)",
+        "secobarbital (Rx)",
+        "zaleplon (Rx)"
+    ],
+    "Serotonin-Dopamine Activity Modulators (SDAM)": [
+        "brexpiprazole (Rx)",
+        "lumateperone (Rx)",
+        "olanzapine/samidorphan (Pending FDA Approval)"
+    ],
+    "Smoking Cessation Aids": [
+        "bupropion (Rx)",
+        "varenicline (Rx)",
+        "nicotine transdermal (OTC)",
+        "nicotine gum (OTC)",
+        "nicotine inhaled (Rx)",
+        "nicotine lozenge (OTC)",
+        "nicotine intranasal (Rx)"
+    ],
+    "Stimulants": [
+        "amphetamine/dextroamphetamine (Rx)",
+        "methylphenidate (Rx)",
+        "phentermine (Rx)",
+        "amphetamine (Rx)",
+        "armodafinil (Rx)",
+        "serdexmethylphenidate/methylphenidate (Rx)",
+        "phendimetrazine (Rx)",
+        "caffeine (Rx, OTC)",
+        "methamphetamine (Rx)",
+        "dextroamphetamine (Rx)",
+        "dexmethylphenidate (Rx)",
+        "diethylpropion (Rx)",
+        "lisdexamfetamine (Rx)",
+        "modafinil (Rx)"
+    ]
+}

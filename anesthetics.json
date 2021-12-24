@@ -1,0 +1,98 @@
+{
+    "Anesthetic Premedication Agents": [
+        "atropine IV/IM (Rx)",
+        "glycopyrrolate (Rx)"
+    ],
+    "Anesthetics, Topical": [
+        "diphenhydramine/allantoin topical (OTC)",
+        "lidocaine/hydrocortisone (Rx)",
+        "lidocaine topical (Rx, OTC)",
+        "pramoxine/calamine topical (OTC)",
+        "pramoxine topical (OTC)",
+        "pramoxine vaginal (OTC)",
+        "bacitracin and lidocaine topical (OTC)",
+        "benzocaine (OTC)",
+        "benzocaine/butamben/tetracaine topical (Rx)",
+        "camphor/menthol topical (OTC)",
+        "dibucaine topical ointment (OTC)",
+        "lidocaine rectal (OTC)",
+        "lidocaine/prilocaine (Rx)",
+        "pramoxine topical/menthol topical/dimethicone topical (OTC)",
+        "menthol topical/pramoxine topical (OTC)",
+        "lidocaine transdermal (Rx, OTC)",
+        "lidocaine/tetracaine (Rx)",
+        "pramoxine/allantoin topical (OTC)",
+        "pramoxine/menthol/petrolatum topical (OTC)",
+        "pramoxine/mineral oil/zinc oxide rectal (OTC)",
+        "tetracaine (Rx)"
+    ],
+    "Anesthetics/Corticosteroid Combos": [
+        "lidocaine/hydrocortisone (Rx)",
+        "hydrocortisone topical/pramoxine topical (Rx)"
+    ],
+    "General Anesthetics, Inhalation": [
+        "desflurane (Rx)",
+        "isoflurane (Rx)",
+        "sevoflurane (Rx)"
+    ],
+    "General Anesthetics, Systemic": [
+        "etomidate (Rx)",
+        "methohexital (Rx)",
+        "propofol (Rx)",
+        "ketamine (Rx)"
+    ],
+    "Local Anesthetics, Amides": [
+        "lidocaine topical (Rx, OTC)",
+        "articaine/epinephrine (Rx)",
+        "bupivacaine (Rx)",
+        "bupivacaine implant (Rx)",
+        "bupivacaine liposome (Rx)",
+        "mepivacaine (Rx)",
+        "prilocaine (Rx)",
+        "dibucaine topical ointment (OTC)",
+        "lidocaine rectal (OTC)",
+        "lidocaine transdermal (Rx, OTC)",
+        "ropivacaine (Rx)"
+    ],
+    "Local Anesthetics, Esters": [
+        "benzocaine (OTC)",
+        "chloroprocaine (Rx)",
+        "cocaine (Rx)",
+        "tetracaine (Rx)"
+    ],
+    "Local Anesthetics, Oral": [
+        "benzydamine (Rx)"
+    ],
+    "Local Anesthetics, Parenteral": [
+        "articaine/epinephrine (Rx)",
+        "bupivacaine (Rx)",
+        "bupivacaine liposome (Rx)",
+        "bupivacaine/meloxicam (Rx)",
+        "mepivacaine (Rx)",
+        "chloroprocaine (Rx)",
+        "lidocaine anesthetic (Rx)",
+        "ropivacaine (Rx)"
+    ],
+    "Neuromuscular Blockers, Depolarizing": [
+        "succinylcholine (Rx)"
+    ],
+    "Neuromuscular Blockers, Nondepolarizing": [
+        "atracurium (Rx)",
+        "cisatracurium (Rx)",
+        "vecuronium (Rx)",
+        "pancuronium (Rx)",
+        "rocuronium (Rx)"
+    ],
+    "Sedatives": [
+        "dexmedetomidine (Rx)"
+    ],
+    "Synthetic, Opioids": [
+        "alfentanil (Rx)",
+        "meperidine (Rx)",
+        "sufentanil SL (Rx)",
+        "fentanyl (Rx)",
+        "tapentadol (Rx)",
+        "remifentanil (Rx)",
+        "sufentanil (Rx)"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "Adrenergic Agonists": [
+        "tetrahydrozoline, ophthalmic (OTC)"
+    ],
+    "Alkalinizing Agents": [
+        "sodium citrate/citric acid (Rx)",
+        "sodium bicarbonate (Rx)",
+        "sodium lactate (Rx)"
+    ],
+    "Alpha/Beta Adrenergic Agonists": [
+        "epinephrine (Rx)",
+        "ephedrine (Rx)",
+        "droxidopa (Rx)",
+        "norepinephrine (Rx)"
+    ],
+    "Alpha1 Agonists": [
+        "phenylephrine (Rx)",
+        "midodrine (Rx)"
+    ],
+    "Angiotensin II Agonists": [
+        "synthetic human angiotensin II (Rx)"
+    ],
+    "Beta1/Beta2 Adrenergic Agonists": [
+        "isoproterenol (Rx)",
+        "nylidrin (Rx)"
+    ],
+    "Diuretics, Osmotic Agents": [
+        "mannitol (Rx)"
+    ],
+    "Electrolyte Supplements, Parenteral": [
+        "ammonium chloride (Rx)",
+        "potassium chloride (Rx)",
+        "potassium phosphates, IV (Rx)",
+        "sodium phosphates, IV (Rx)"
+    ],
+    "Hydrochloric Acid Binder": [
+        "veverimer (Pending FDA Approval)"
+    ],
+    "Inotropic Agents": [
+        "inamrinone (Rx)",
+        "digoxin (Rx)",
+        "dobutamine (Rx)",
+        "dopamine (Rx)",
+        "milrinone (Rx)"
+    ],
+    "Thrombolytics": [
+        "alteplase (Rx)",
+        "defibrotide (Rx)",
+        "reteplase (Rx)",
+        "tenecteplase (Rx)"
+    ],
+    "Vasodilators": [
+        "alprostadil IV (Rx)",
+        "fenoldopam (Rx)",
+        "nitroglycerin transdermal (Rx)",
+        "hydralazine (Rx)",
+        "minoxidil (Rx)",
+        "nitroprusside sodium (Rx)",
+        "nylidrin (Rx)",
+        "papaverine (Rx)"
+    ],
+    "Volume Expanders": [
+        "albumin IV (Rx)",
+        "dextran (Rx)",
+        "hetastarch (Rx)",
+        "plasma protein fraction (Rx)",
+        "tetrastarch (Rx)"
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "Calcineurin Inhibitors": [
+        "tacrolimus (Rx)",
+        "cyclosporine ophthalmic (Rx)",
+        "cyclosporine (Rx)",
+        "pimecrolimus (Rx)",
+        "voclosporin (Rx)",
+        "tacrolimus ointment (Rx)"
+    ],
+    "Immune Globulins": [
+        "antithymocyte globulin rabbit (Rx)",
+        "immune globulin IV (IGIV) (Rx)",
+        "botulism immune globulin iv (Rx)",
+        "cytomegalovirus immune globulin (CMV IG) (Rx)",
+        "immune globulin SC (Rx)",
+        "immune globulin IM (IGIM) (Rx)",
+        "Rho(D) immune globulin (Rx)",
+        "hepatitis B immune globulin (HBIG) (Rx)",
+        "tetanus immune globulin (TIG) (Rx)",
+        "rabies immune globulin, human (RIG) (Rx)",
+        "vaccinia immune globulin intravenous (Rx)",
+        "varicella zoster immune globulin, human (Rx)"
+    ],
+    "Immunologics, Interleukin Inhibitors": [
+        "rilonacept (Rx)",
+        "inolimomab (Pending FDA Approval)"
+    ],
+    "Immunomodulators": [
+        "mercaptopurine (Rx)",
+        "interferon alfa n3 (Rx)",
+        "anakinra (Rx)",
+        "rilonacept (Rx)",
+        "interferon beta 1a (Rx)",
+        "monomethyl fumarate (Rx)",
+        "C1 inhibitor human (Rx)",
+        "interferon beta 1b (Rx)",
+        "dimethyl fumarate (Rx)",
+        "C1 esterase inhibitor recombinant (Rx)",
+        "glatiramer (Rx)",
+        "diroximel fumarate (Rx)",
+        "ecallantide (Rx)",
+        "emapalumab (Rx)",
+        "fingolimod (Rx)",
+        "icatibant (Rx)",
+        "peginterferon beta-1a (Rx)",
+        "remestemcel-L (Pending FDA Approval)",
+        "ropeginterferon alfa 2b (Pending FDA Approval)",
+        "siltuximab (Rx)",
+        "sutimlimab (Pending FDA Approval)"
+    ],
+    "Immunostimulants": [
+        "HIV vaccine (Pending FDA Approval)",
+        "sipuleucel-T (Rx)"
+    ],
+    "Immunosuppressants": [
+        "abatacept (Rx)",
+        "antithymocyte globulin equine (Rx)",
+        "antithymocyte globulin rabbit (Rx)",
+        "leflunomide (Rx)",
+        "tacrolimus (Rx)",
+        "infliximab (Rx)",
+        "azathioprine (Rx)",
+        "basiliximab (Rx)",
+        "belatacept (Rx)",
+        "mycophenolate (Rx)",
+        "certolizumab pegol (Rx)",
+        "cyclosporine (Rx)",
+        "etanercept (Rx)",
+        "hydroxychloroquine sulfate (Rx)",
+        "methotrexate (Rx)",
+        "muromonab CD3 (Discontinued)",
+        "sirolimus (Rx)",
+        "sirolimus intravitreal (Pending FDA Approval)"
+    ],
+    "Interferon Antagonists": [
+        "anifrolumab (Pending FDA Approval)"
+    ],
+    "Kallikrein Inhibitors": [
+        "berotralstat (Rx)",
+        "ecallantide (Rx)",
+        "lanadelumab (Rx)"
+    ],
+    "Monoclonal Antibodies": [
+        "adalimumab (Rx)",
+        "tocilizumab (Rx)",
+        "alefacept (Discontinued)",
+        "ansuvimab (Rx)",
+        "atoltivimab/maftivimab/odesivimab (Rx)",
+        "infliximab (Rx)",
+        "bamlanivimab (Investigational)",
+        "basiliximab (Rx)",
+        "bezlotoxumab (Rx)",
+        "brodalumab (Rx)",
+        "caplacizumab (Rx)",
+        "canakinumab (Rx)",
+        "casirivimab/imdevimab (Investigational)",
+        "secukinumab (Rx)",
+        "COVID-19 monoclonal antibody (VIR, GSK) (Investigational)",
+        "eculizumab (Rx)",
+        "emicizumab (Rx)",
+        "etesevimab (Investigational)",
+        "golimumab (Rx)",
+        "guselkumab (Rx)",
+        "inebilizumab (Rx)",
+        "sarilumab (Rx)",
+        "narsoplimab (Pending FDA Approval)",
+        "ocrelizumab (Rx)",
+        "ravulizumab (Rx)",
+        "raxibacumab (Rx)",
+        "risankizumab (Rx)",
+        "rituximab-hyaluronidase (Rx)",
+        "ustekinumab (Rx)",
+        "sutimlimab (Pending FDA Approval)",
+        "teplizumab (Pending FDA Approval)"
+    ],
+    "Polyclonal Antibodies": [
+        "antithymocyte globulin equine (Rx)"
+    ],
+    "ROCK Inhibitors": [
+        "belumosudil (Pending FDA Approval)"
+    ],
+    "Selective T-Cell Costimulation Blockers": [
+        "belatacept (Rx)",
+        "reltecimod (Pending FDA Approval)"
+    ]
+}

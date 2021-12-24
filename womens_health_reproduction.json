@@ -1,0 +1,131 @@
+{
+    "Abortifacient": [
+        "carboprost tromethamine (Rx)",
+        "dinoprostone (Rx)"
+    ],
+    "Antiprogestins": [
+        "mifepristone (Rx)"
+    ],
+    "Contraceptives, Oral": [
+        "levonorgestrel oral (Rx, OTC)",
+        "levonorgestrel oral/ethinyl estradiol (Rx)",
+        "norethindrone/ethinyl estradiol (Rx)",
+        "desogestrel/ethinyl estradiol (Rx)",
+        "levonorgestrel oral/ethinylestradiol/ferrous bisglycinate (Rx)",
+        "drospirenone/ethinyl estradiol/levomefolate (Rx)",
+        "norethindrone acetate/ethinyl estradiol/ferrous fumarate (Rx)",
+        "norgestrel/ethinyl estradiol (Rx)",
+        "dienogest/estradiol valerate (Rx)",
+        "drospirenone (Rx)",
+        "drospirenone/ethinyl estradiol (Rx)",
+        "norgestimate/ethinyl estradiol (Rx)",
+        "estetrol/drospirenone (Rx)",
+        "etynodiol/ethinyl estradiol (Rx)",
+        "norethindrone acetate/ethinyl estradiol (Rx)",
+        "norethindrone/ethinyl estradiol/ferrous fumarate (Rx)",
+        "mestranol/norethindrone (Discontinued)"
+    ],
+    "Contraceptives, Transdermal": [
+        "ethinyl estradiol/levonorgestrel transdermal (Rx)",
+        "norelgestromin/ethinyl estradiol (Rx)"
+    ],
+    "Contraceptives, Vaginal": [
+        "lactic acid/citric acid/potassium bitartrate vaginal (Rx)"
+    ],
+    "Estrogen Derivatives": [
+        "estradiol (Rx)",
+        "bazedoxifene/conjugated estrogens (Rx)",
+        "estrogens conjugated synthetic (Rx)",
+        "conjugated estrogens (Rx)",
+        "conjugated estrogens, vaginal (Rx)",
+        "estradiol vaginal (Rx)",
+        "estrogens esterified (Rx)",
+        "estropipate (Rx)"
+    ],
+    "Estrogens/Progestins": [
+        "levonorgestrel oral/ethinyl estradiol (Rx)",
+        "norethindrone/ethinyl estradiol (Rx)",
+        "segesterone/ethinyl estradiol (Rx)",
+        "desogestrel/ethinyl estradiol (Rx)",
+        "drospirenone/ethinyl estradiol/levomefolate (Rx)",
+        "norethindrone acetate/ethinyl estradiol/ferrous fumarate (Rx)",
+        "norgestrel/ethinyl estradiol (Rx)",
+        "dienogest/estradiol valerate (Rx)",
+        "drospirenone/ethinyl estradiol (Rx)",
+        "elagolix/estradiol/norethindrone acetate (Rx)",
+        "etonogestrel/ethinyl estradiol (Rx)",
+        "norgestimate/ethinyl estradiol (Rx)",
+        "etynodiol/ethinyl estradiol (Rx)",
+        "norethindrone acetate/ethinyl estradiol (Rx)",
+        "norethindrone/ethinyl estradiol/ferrous fumarate (Rx)",
+        "mestranol/norethindrone (Discontinued)",
+        "relugolix/estradiol/norethindrone (Pending FDA Approval)"
+    ],
+    "Estrogens/Progestins-HRT": [
+        "estradiol/norethindrone acetate (Rx)",
+        "drospirenone/estradiol (Rx)",
+        "estradiol/progesterone (Rx)",
+        "estradiol/norgestimate (Rx)",
+        "estradiol/levonorgestrel intrauterine (Rx)",
+        "conjugated estrogens/medroxyprogesterone (Rx)"
+    ],
+    "Gonadotropin Releasing Hormone Agonists": [
+        "nafarelin (Rx)"
+    ],
+    "Gonadotropin Releasing Hormone Antagonists": [
+        "ganirelix (Rx)",
+        "cetrorelix (Rx)",
+        "elagolix (Rx)",
+        "elagolix/estradiol/norethindrone acetate (Rx)"
+    ],
+    "Gonadotropins": [
+        "urofollitropin (Rx)",
+        "choriogonadotropin alfa (Rx)",
+        "follitropin beta (Rx)",
+        "follitropin alfa (Rx)",
+        "menotropins (Rx)"
+    ],
+    "Ovulation Stimulators": [
+        "urofollitropin (Rx)",
+        "choriogonadotropin alfa (Rx)",
+        "follitropin beta (Rx)",
+        "follitropin alfa (Rx)",
+        "menotropins (Rx)"
+    ],
+    "Progestins": [
+        "levonorgestrel oral (Rx, OTC)",
+        "norethindrone acetate (Rx)",
+        "norethindrone (Rx)",
+        "progesterone intravaginal gel (Rx)",
+        "medroxyprogesterone (Rx)",
+        "etonogestrel (Rx)",
+        "hydroxyprogesterone caproate (Rx)",
+        "levonorgestrel intrauterine (Rx)",
+        "megestrol (Rx)",
+        "progesterone micronized (Rx)"
+    ],
+    "Progestins Receptor Modulators": [
+        "ulipristal (Rx)"
+    ],
+    "Selective Estrogen Receptor Modulators": [
+        "bazedoxifene/conjugated estrogens (Rx)",
+        "clomiphene (Rx)",
+        "raloxifene (Rx)",
+        "ospemifene (Rx)"
+    ],
+    "Spermacides": [
+        "nonoxynol-9 vaginal (OTC)"
+    ],
+    "Vaginal pH Modulator": [
+        "lactic acid/citric acid/potassium bitartrate vaginal (Rx)"
+    ],
+    "Vaginal Preparations, Other": [
+        "acetic acid vaginal (Rx)",
+        "astodrimer (Pending FDA Approval)",
+        "dinoprostone (Rx)",
+        "progesterone intravaginal gel (Rx)",
+        "prasterone, intravaginal (Rx)",
+        "estradiol vaginal (Rx)",
+        "metronidazole vaginal (Rx)"
+    ]
+}
